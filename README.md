@@ -3,7 +3,7 @@
 Reproduction and dataset checks for *Understanding and Improving Flaky Test Classification* (Rahman, Dutta, Shi, OOPSLA 2025).
 
 ## Contents
-- `notebook/` – Colab notebook (T4 GPU, no Docker): reproduction, formatting analysis, perturbation experiments, IDoFT cross-check, verification checks.
+- `Flakylens_exp.ipynb` – Colab notebook (T4 GPU, no Docker): reproduction, formatting analysis, perturbation experiments, IDoFT cross-check, verificaton checks.
 - `results/` – CSV outputs of the main experiments.
 - `nondex/` – NonDex logs for Mapper `ComplexEntityTest#test`.
 

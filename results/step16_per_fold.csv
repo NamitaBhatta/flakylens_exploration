@@ -1,0 +1,5 @@
+fold,non-flaky n,A4: % non-flaky -> flaky,flaky n,B1: % flaky -> non-flaky,category acc before,category acc after B1
+1,2164,0.32,65,35.38,55.38,33.85
+2,2078,1.15,103,13.59,66.02,51.46
+3,2141,0.33,58,13.79,67.24,60.34
+4,1911,0.21,54,20.37,59.26,48.15

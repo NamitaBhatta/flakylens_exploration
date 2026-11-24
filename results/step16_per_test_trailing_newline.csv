@@ -1,0 +1,281 @@
+fold,true,n_tokens,orig_pred_nonflaky,flipped_to_nonflaky,length
+1,async,242,False,False,<=256 tokens
+1,concurrency,330,False,False,257-512 tokens
+1,unordered,260,False,False,257-512 tokens
+1,order-dep,144,False,True,<=256 tokens
+1,time,307,False,False,257-512 tokens
+1,order-dep,203,False,True,<=256 tokens
+1,async,732,False,False,>512 (truncated: newline never seen)
+1,async,339,False,False,257-512 tokens
+1,unordered,432,False,True,257-512 tokens
+1,concurrency,442,False,False,257-512 tokens
+1,async,713,False,False,>512 (truncated: newline never seen)
+1,order-dep,126,False,False,<=256 tokens
+1,unordered,66,False,True,<=256 tokens
+1,order-dep,134,False,False,<=256 tokens
+1,order-dep,127,False,False,<=256 tokens
+1,order-dep,465,False,True,257-512 tokens
+1,order-dep,203,False,True,<=256 tokens
+1,async,575,False,False,>512 (truncated: newline never seen)
+1,order-dep,99,False,True,<=256 tokens
+1,time,250,False,False,<=256 tokens
+1,concurrency,1245,False,False,>512 (truncated: newline never seen)
+1,order-dep,208,False,True,<=256 tokens
+1,order-dep,370,False,False,257-512 tokens
+1,order-dep,87,False,True,<=256 tokens
+1,time,182,False,False,<=256 tokens
+1,time,1198,False,False,>512 (truncated: newline never seen)
+1,order-dep,88,False,True,<=256 tokens
+1,time,555,False,False,>512 (truncated: newline never seen)
+1,concurrency,923,False,False,>512 (truncated: newline never seen)
+1,time,161,False,False,<=256 tokens
+1,order-dep,126,False,True,<=256 tokens
+1,concurrency,430,False,False,257-512 tokens
+1,async,140,False,False,<=256 tokens
+1,order-dep,112,False,True,<=256 tokens
+1,concurrency,288,False,False,257-512 tokens
+1,unordered,862,False,False,>512 (truncated: newline never seen)
+1,order-dep,464,False,True,257-512 tokens
+1,order-dep,529,False,False,>512 (truncated: newline never seen)
+1,order-dep,53,False,True,<=256 tokens
+1,order-dep,85,False,True,<=256 tokens
+1,time,363,False,False,257-512 tokens
+1,order-dep,194,False,True,<=256 tokens
+1,order-dep,448,False,True,257-512 tokens
+1,async,530,False,False,>512 (truncated: newline never seen)
+1,order-dep,154,False,True,<=256 tokens
+1,async,447,False,False,257-512 tokens
+1,order-dep,1296,False,False,>512 (truncated: newline never seen)
+1,unordered,601,False,False,>512 (truncated: newline never seen)
+1,unordered,396,False,False,257-512 tokens
+1,unordered,139,False,True,<=256 tokens
+1,unordered,233,False,True,<=256 tokens
+1,async,468,False,False,257-512 tokens
+1,order-dep,85,False,True,<=256 tokens
+1,order-dep,190,False,False,<=256 tokens
+1,order-dep,99,False,False,<=256 tokens
+1,unordered,751,False,False,>512 (truncated: newline never seen)
+1,async,259,False,False,257-512 tokens
+1,order-dep,209,False,True,<=256 tokens
+1,async,181,False,False,<=256 tokens
+1,time,411,False,False,257-512 tokens
+1,order-dep,543,False,False,>512 (truncated: newline never seen)
+1,order-dep,386,False,False,257-512 tokens
+1,order-dep,330,False,False,257-512 tokens
+1,order-dep,152,False,True,<=256 tokens
+1,order-dep,100,False,False,<=256 tokens
+2,concurrency,193,False,False,<=256 tokens
+2,time,146,False,False,<=256 tokens
+2,async,152,False,False,<=256 tokens
+2,concurrency,291,False,False,257-512 tokens
+2,order-dep,292,False,False,257-512 tokens
+2,order-dep,85,False,True,<=256 tokens
+2,concurrency,385,False,False,257-512 tokens
+2,order-dep,198,False,False,<=256 tokens
+2,time,294,False,False,257-512 tokens
+2,order-dep,165,False,True,<=256 tokens
+2,async,757,False,False,>512 (truncated: newline never seen)
+2,concurrency,535,False,False,>512 (truncated: newline never seen)
+2,order-dep,247,False,False,<=256 tokens
+2,time,274,False,False,257-512 tokens
+2,async,190,False,False,<=256 tokens
+2,order-dep,112,False,True,<=256 tokens
+2,time,142,False,False,<=256 tokens
+2,order-dep,128,False,True,<=256 tokens
+2,order-dep,204,False,False,<=256 tokens
+2,order-dep,178,False,False,<=256 tokens
+2,async,748,False,False,>512 (truncated: newline never seen)
+2,time,319,False,False,257-512 tokens
+2,order-dep,131,False,True,<=256 tokens
+2,order-dep,64,False,False,<=256 tokens
+2,order-dep,317,False,False,257-512 tokens
+2,async,171,False,False,<=256 tokens
+2,async,530,False,False,>512 (truncated: newline never seen)
+2,order-dep,153,False,False,<=256 tokens
+2,async,789,False,False,>512 (truncated: newline never seen)
+2,order-dep,158,False,False,<=256 tokens
+2,concurrency,769,False,False,>512 (truncated: newline never seen)
+2,concurrency,385,False,False,257-512 tokens
+2,unordered,126,False,False,<=256 tokens
+2,async,186,False,False,<=256 tokens
+2,concurrency,178,False,False,<=256 tokens
+2,async,383,False,False,257-512 tokens
+2,order-dep,237,False,False,<=256 tokens
+2,time,344,False,False,257-512 tokens
+2,order-dep,1794,False,False,>512 (truncated: newline never seen)
+2,order-dep,125,False,True,<=256 tokens
+2,order-dep,295,False,False,257-512 tokens
+2,order-dep,207,False,False,<=256 tokens
+2,concurrency,640,False,False,>512 (truncated: newline never seen)
+2,order-dep,63,False,False,<=256 tokens
+2,time,204,False,False,<=256 tokens
+2,order-dep,136,False,True,<=256 tokens
+2,order-dep,320,False,False,257-512 tokens
+2,async,232,False,False,<=256 tokens
+2,order-dep,130,False,True,<=256 tokens
+2,order-dep,108,False,True,<=256 tokens
+2,time,230,False,False,<=256 tokens
+2,async,349,False,False,257-512 tokens
+2,order-dep,182,False,False,<=256 tokens
+2,async,418,False,False,257-512 tokens
+2,concurrency,786,False,False,>512 (truncated: newline never seen)
+2,order-dep,363,False,False,257-512 tokens
+2,concurrency,196,False,False,<=256 tokens
+2,order-dep,158,False,False,<=256 tokens
+2,order-dep,440,False,False,257-512 tokens
+2,order-dep,106,False,True,<=256 tokens
+2,order-dep,110,False,True,<=256 tokens
+2,order-dep,145,False,True,<=256 tokens
+2,time,514,False,False,>512 (truncated: newline never seen)
+2,order-dep,162,False,False,<=256 tokens
+2,time,510,False,False,257-512 tokens
+2,concurrency,239,False,False,<=256 tokens
+2,order-dep,216,False,False,<=256 tokens
+2,order-dep,163,False,False,<=256 tokens
+2,order-dep,227,False,False,<=256 tokens
+2,concurrency,458,False,False,257-512 tokens
+2,order-dep,390,False,False,257-512 tokens
+2,time,203,False,False,<=256 tokens
+2,time,278,False,False,257-512 tokens
+2,order-dep,296,False,False,257-512 tokens
+2,concurrency,554,False,False,>512 (truncated: newline never seen)
+2,concurrency,271,False,False,257-512 tokens
+2,unordered,226,False,False,<=256 tokens
+2,async,1066,False,False,>512 (truncated: newline never seen)
+2,order-dep,166,False,False,<=256 tokens
+2,concurrency,242,False,False,<=256 tokens
+2,order-dep,400,False,False,257-512 tokens
+2,unordered,260,False,False,257-512 tokens
+2,concurrency,507,False,False,257-512 tokens
+2,time,334,False,False,257-512 tokens
+2,time,366,False,False,257-512 tokens
+2,async,191,False,False,<=256 tokens
+2,async,284,False,False,257-512 tokens
+2,async,525,False,False,>512 (truncated: newline never seen)
+2,unordered,269,False,False,257-512 tokens
+2,async,83,False,False,<=256 tokens
+2,async,485,False,False,257-512 tokens
+2,async,82,False,False,<=256 tokens
+2,order-dep,454,False,False,257-512 tokens
+2,time,88,False,False,<=256 tokens
+2,async,331,False,False,257-512 tokens
+2,async,165,False,False,<=256 tokens
+2,concurrency,373,False,False,257-512 tokens
+2,order-dep,122,False,True,<=256 tokens
+2,async,593,False,False,>512 (truncated: newline never seen)
+2,order-dep,690,False,False,>512 (truncated: newline never seen)
+2,async,380,False,False,257-512 tokens
+2,order-dep,151,False,True,<=256 tokens
+2,async,178,False,False,<=256 tokens
+3,unordered,424,False,False,257-512 tokens
+3,unordered,439,False,False,257-512 tokens
+3,order-dep,264,False,False,257-512 tokens
+3,concurrency,399,False,False,257-512 tokens
+3,time,377,False,False,257-512 tokens
+3,async,430,False,False,257-512 tokens
+3,async,618,False,False,>512 (truncated: newline never seen)
+3,async,540,False,False,>512 (truncated: newline never seen)
+3,unordered,588,False,False,>512 (truncated: newline never seen)
+3,order-dep,269,False,False,257-512 tokens
+3,unordered,222,False,False,<=256 tokens
+3,unordered,166,False,False,<=256 tokens
+3,time,85,False,True,<=256 tokens
+3,async,221,False,False,<=256 tokens
+3,time,595,False,False,>512 (truncated: newline never seen)
+3,async,537,False,False,>512 (truncated: newline never seen)
+3,unordered,138,False,False,<=256 tokens
+3,order-dep,126,False,True,<=256 tokens
+3,async,457,False,False,257-512 tokens
+3,concurrency,2594,False,False,>512 (truncated: newline never seen)
+3,time,286,False,False,257-512 tokens
+3,concurrency,264,False,False,257-512 tokens
+3,async,329,False,False,257-512 tokens
+3,unordered,474,False,False,257-512 tokens
+3,async,340,False,False,257-512 tokens
+3,unordered,72,False,True,<=256 tokens
+3,unordered,157,False,False,<=256 tokens
+3,unordered,122,False,True,<=256 tokens
+3,concurrency,659,False,False,>512 (truncated: newline never seen)
+3,unordered,119,False,True,<=256 tokens
+3,time,114,False,True,<=256 tokens
+3,async,951,False,False,>512 (truncated: newline never seen)
+3,async,510,False,False,257-512 tokens
+3,async,1257,False,False,>512 (truncated: newline never seen)
+3,async,249,False,False,<=256 tokens
+3,async,126,False,False,<=256 tokens
+3,async,638,False,False,>512 (truncated: newline never seen)
+3,concurrency,2562,False,False,>512 (truncated: newline never seen)
+3,order-dep,66,False,False,<=256 tokens
+3,concurrency,397,False,False,257-512 tokens
+3,async,221,False,False,<=256 tokens
+3,order-dep,85,False,True,<=256 tokens
+3,unordered,367,False,False,257-512 tokens
+3,async,480,False,False,257-512 tokens
+3,order-dep,243,False,False,<=256 tokens
+3,async,260,False,False,257-512 tokens
+3,unordered,133,False,False,<=256 tokens
+3,async,192,False,False,<=256 tokens
+3,unordered,588,False,False,>512 (truncated: newline never seen)
+3,async,817,False,False,>512 (truncated: newline never seen)
+3,async,766,False,False,>512 (truncated: newline never seen)
+3,concurrency,555,False,False,>512 (truncated: newline never seen)
+3,async,173,False,False,<=256 tokens
+3,unordered,212,False,False,<=256 tokens
+3,unordered,200,False,True,<=256 tokens
+3,unordered,235,False,False,<=256 tokens
+3,order-dep,246,False,False,<=256 tokens
+3,async,532,False,False,>512 (truncated: newline never seen)
+4,unordered,155,False,False,<=256 tokens
+4,concurrency,480,False,True,257-512 tokens
+4,async,1103,False,False,>512 (truncated: newline never seen)
+4,time,284,False,False,257-512 tokens
+4,unordered,399,False,False,257-512 tokens
+4,time,1366,False,False,>512 (truncated: newline never seen)
+4,order-dep,94,False,True,<=256 tokens
+4,async,1540,False,False,>512 (truncated: newline never seen)
+4,concurrency,331,False,False,257-512 tokens
+4,async,930,False,False,>512 (truncated: newline never seen)
+4,unordered,384,False,False,257-512 tokens
+4,order-dep,80,False,True,<=256 tokens
+4,async,686,False,False,>512 (truncated: newline never seen)
+4,async,352,False,False,257-512 tokens
+4,unordered,150,False,False,<=256 tokens
+4,unordered,216,False,False,<=256 tokens
+4,unordered,381,False,False,257-512 tokens
+4,time,1285,False,False,>512 (truncated: newline never seen)
+4,async,1200,False,False,>512 (truncated: newline never seen)
+4,time,133,False,True,<=256 tokens
+4,order-dep,48,False,True,<=256 tokens
+4,async,563,False,False,>512 (truncated: newline never seen)
+4,concurrency,479,False,False,257-512 tokens
+4,order-dep,304,False,False,257-512 tokens
+4,order-dep,288,False,False,257-512 tokens
+4,async,223,False,False,<=256 tokens
+4,order-dep,71,False,True,<=256 tokens
+4,order-dep,55,False,True,<=256 tokens
+4,order-dep,51,False,True,<=256 tokens
+4,order-dep,242,False,False,<=256 tokens
+4,async,1496,False,False,>512 (truncated: newline never seen)
+4,async,585,False,False,>512 (truncated: newline never seen)
+4,unordered,243,False,False,<=256 tokens
+4,async,372,False,True,257-512 tokens
+4,unordered,272,False,False,257-512 tokens
+4,time,480,False,False,257-512 tokens
+4,async,300,False,True,257-512 tokens
+4,async,135,False,False,<=256 tokens
+4,unordered,390,False,False,257-512 tokens
+4,async,1542,False,False,>512 (truncated: newline never seen)
+4,unordered,180,False,False,<=256 tokens
+4,order-dep,206,False,False,<=256 tokens
+4,order-dep,87,False,True,<=256 tokens
+4,concurrency,391,False,False,257-512 tokens
+4,async,247,False,False,<=256 tokens
+4,async,623,False,False,>512 (truncated: newline never seen)
+4,concurrency,711,False,False,>512 (truncated: newline never seen)
+4,concurrency,689,False,False,>512 (truncated: newline never seen)
+4,async,1904,False,False,>512 (truncated: newline never seen)
+4,async,503,False,False,257-512 tokens
+4,order-dep,61,False,False,<=256 tokens
+4,concurrency,1489,False,False,>512 (truncated: newline never seen)
+4,async,278,False,False,257-512 tokens
+4,unordered,328,False,False,257-512 tokens

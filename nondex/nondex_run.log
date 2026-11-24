@@ -1,0 +1,861 @@
+[INFO] Scanning for projects...
+[INFO] Loaded 24592 auto-discovered prefixes for remote repository central (prefixes-central.txt)
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for tk.mybatis:mapper:jar:4.1.5
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ tk.mybatis:mapper-parent:3, /home/codespace/.m2/repository/tk/mybatis/mapper-parent/3/mapper-parent-3.pom, line 141, column 21
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-shade-plugin is missing. @ line 79, column 21
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-source-plugin is missing. @ tk.mybatis:mapper-parent:3, /home/codespace/.m2/repository/tk/mybatis/mapper-parent/3/mapper-parent-3.pom, line 149, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for tk.mybatis:mapper-all-dependencies:jar:4.1.5
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ tk.mybatis:mapper-parent:3, /home/codespace/.m2/repository/tk/mybatis/mapper-parent/3/mapper-parent-3.pom, line 141, column 21
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-source-plugin is missing. @ tk.mybatis:mapper-parent:3, /home/codespace/.m2/repository/tk/mybatis/mapper-parent/3/mapper-parent-3.pom, line 149, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for tk.mybatis:mapper-all:pom:4.1.5
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ tk.mybatis:mapper-parent:3, /home/codespace/.m2/repository/tk/mybatis/mapper-parent/3/mapper-parent-3.pom, line 141, column 21
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-source-plugin is missing. @ tk.mybatis:mapper-parent:3, /home/codespace/.m2/repository/tk/mybatis/mapper-parent/3/mapper-parent-3.pom, line 149, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for tk.mybatis:mapper-base:jar:1.1.5
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ tk.mybatis:mapper-parent:3, /home/codespace/.m2/repository/tk/mybatis/mapper-parent/3/mapper-parent-3.pom, line 141, column 21
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-source-plugin is missing. @ tk.mybatis:mapper-parent:3, /home/codespace/.m2/repository/tk/mybatis/mapper-parent/3/mapper-parent-3.pom, line 149, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for tk.mybatis:mapper-core:jar:1.1.5
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ tk.mybatis:mapper-parent:3, /home/codespace/.m2/repository/tk/mybatis/mapper-parent/3/mapper-parent-3.pom, line 141, column 21
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-source-plugin is missing. @ tk.mybatis:mapper-parent:3, /home/codespace/.m2/repository/tk/mybatis/mapper-parent/3/mapper-parent-3.pom, line 149, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for tk.mybatis:mapper-extra:jar:1.1.5
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ tk.mybatis:mapper-parent:3, /home/codespace/.m2/repository/tk/mybatis/mapper-parent/3/mapper-parent-3.pom, line 141, column 21
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-source-plugin is missing. @ tk.mybatis:mapper-parent:3, /home/codespace/.m2/repository/tk/mybatis/mapper-parent/3/mapper-parent-3.pom, line 149, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for tk.mybatis:mapper-spring:jar:1.1.5
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ tk.mybatis:mapper-parent:3, /home/codespace/.m2/repository/tk/mybatis/mapper-parent/3/mapper-parent-3.pom, line 141, column 21
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-source-plugin is missing. @ tk.mybatis:mapper-parent:3, /home/codespace/.m2/repository/tk/mybatis/mapper-parent/3/mapper-parent-3.pom, line 149, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for tk.mybatis:mapper-weekend:jar:1.1.5
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ tk.mybatis:mapper-parent:3, /home/codespace/.m2/repository/tk/mybatis/mapper-parent/3/mapper-parent-3.pom, line 141, column 21
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-source-plugin is missing. @ tk.mybatis:mapper-parent:3, /home/codespace/.m2/repository/tk/mybatis/mapper-parent/3/mapper-parent-3.pom, line 149, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for tk.mybatis:mapper-generator:jar:1.1.5
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ tk.mybatis:mapper-parent:3, /home/codespace/.m2/repository/tk/mybatis/mapper-parent/3/mapper-parent-3.pom, line 141, column 21
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-source-plugin is missing. @ tk.mybatis:mapper-parent:3, /home/codespace/.m2/repository/tk/mybatis/mapper-parent/3/mapper-parent-3.pom, line 149, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for tk.mybatis:mapper-spring-boot-autoconfigure:jar:2.1.5
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ tk.mybatis:mapper-parent:3, /home/codespace/.m2/repository/tk/mybatis/mapper-parent/3/mapper-parent-3.pom, line 141, column 21
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-source-plugin is missing. @ tk.mybatis:mapper-parent:3, /home/codespace/.m2/repository/tk/mybatis/mapper-parent/3/mapper-parent-3.pom, line 149, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for tk.mybatis:mapper-spring-boot-starter:jar:2.1.5
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ tk.mybatis:mapper-parent:3, /home/codespace/.m2/repository/tk/mybatis/mapper-parent/3/mapper-parent-3.pom, line 141, column 21
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-source-plugin is missing. @ tk.mybatis:mapper-parent:3, /home/codespace/.m2/repository/tk/mybatis/mapper-parent/3/mapper-parent-3.pom, line 149, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for tk.mybatis:mapper-spring-boot-sample-annotation:jar:2.1.5
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ tk.mybatis:mapper-parent:3, /home/codespace/.m2/repository/tk/mybatis/mapper-parent/3/mapper-parent-3.pom, line 141, column 21
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-source-plugin is missing. @ tk.mybatis:mapper-parent:3, /home/codespace/.m2/repository/tk/mybatis/mapper-parent/3/mapper-parent-3.pom, line 149, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for tk.mybatis:mapper-spring-boot-sample-xml:jar:2.1.5
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ tk.mybatis:mapper-parent:3, /home/codespace/.m2/repository/tk/mybatis/mapper-parent/3/mapper-parent-3.pom, line 141, column 21
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-source-plugin is missing. @ tk.mybatis:mapper-parent:3, /home/codespace/.m2/repository/tk/mybatis/mapper-parent/3/mapper-parent-3.pom, line 149, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for tk.mybatis:mapper-spring-boot-samples:pom:2.1.5
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ tk.mybatis:mapper-parent:3, /home/codespace/.m2/repository/tk/mybatis/mapper-parent/3/mapper-parent-3.pom, line 141, column 21
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-source-plugin is missing. @ tk.mybatis:mapper-parent:3, /home/codespace/.m2/repository/tk/mybatis/mapper-parent/3/mapper-parent-3.pom, line 149, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for tk.mybatis:mapper-spring-boot:pom:2.1.5
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ tk.mybatis:mapper-parent:3, /home/codespace/.m2/repository/tk/mybatis/mapper-parent/3/mapper-parent-3.pom, line 141, column 21
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-source-plugin is missing. @ tk.mybatis:mapper-parent:3, /home/codespace/.m2/repository/tk/mybatis/mapper-parent/3/mapper-parent-3.pom, line 149, column 21
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for tk.mybatis:mapper-modules:pom:1.1.5
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ tk.mybatis:mapper-parent:3, /home/codespace/.m2/repository/tk/mybatis/mapper-parent/3/mapper-parent-3.pom, line 141, column 21
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-source-plugin is missing. @ tk.mybatis:mapper-parent:3, /home/codespace/.m2/repository/tk/mybatis/mapper-parent/3/mapper-parent-3.pom, line 149, column 21
+[WARNING] 
+[WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+[WARNING] 
+[WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+[WARNING] 
+[WARNING] Ignoring incompatible plugin version 4.0.0-beta-1: 
+The plugin org.apache.maven.plugins:maven-source-plugin:4.0.0-beta-1 has unmet prerequisites: 
+	Required Java version 17 is not met by current version: 1.8.0_514
+	Required Maven version 4.0.0-beta-3 is not met by current version 3.10.0
+[INFO] Latest version of plugin org.apache.maven.plugins:maven-source-plugin failed compatibility check
+[INFO] Looking for compatible RELEASE version of plugin org.apache.maven.plugins:maven-source-plugin
+[INFO] Selected plugin org.apache.maven.plugins:maven-source-plugin:3.4.0
+Downloading from central: https://repo.maven.apache.org/maven2/edu/illinois/nondex-maven-plugin/2.2.1/nondex-maven-plugin-2.2.1.pom
+Progress (1): 2.2 kBProgress (1): 2.4 kBProgress (1): 4.7 kBProgress (1): 5.2 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/edu/illinois/nondex-maven-plugin/2.2.1/nondex-maven-plugin-2.2.1.pom (5.2 kB at 9.0 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/edu/illinois/nondex/2.2.1/nondex-2.2.1.pom
+Progress (1): 1.1 kBProgress (1): 1.2 kBProgress (1): 3.7 kBProgress (1): 6.8 kBProgress (1): 7.2 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/edu/illinois/nondex/2.2.1/nondex-2.2.1.pom (7.2 kB at 86 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/edu/illinois/nondex-maven-plugin/2.2.1/nondex-maven-plugin-2.2.1.jar
+Progress (1): 0.5/41 kBProgress (1): 1.9/41 kBProgress (1): 3.3/41 kBProgress (1): 4.7/41 kBProgress (1): 6.0/41 kBProgress (1): 7.4/41 kBProgress (1): 8.8/41 kBProgress (1): 10/41 kB Progress (1): 11/41 kBProgress (1): 13/41 kBProgress (1): 14/41 kBProgress (1): 15/41 kBProgress (1): 17/41 kBProgress (1): 18/41 kBProgress (1): 20/41 kBProgress (1): 21/41 kBProgress (1): 22/41 kBProgress (1): 24/41 kBProgress (1): 25/41 kBProgress (1): 26/41 kBProgress (1): 28/41 kBProgress (1): 29/41 kBProgress (1): 31/41 kBProgress (1): 32/41 kBProgress (1): 33/41 kBProgress (1): 35/41 kBProgress (1): 36/41 kBProgress (1): 37/41 kBProgress (1): 39/41 kBProgress (1): 40/41 kBProgress (1): 41 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/edu/illinois/nondex-maven-plugin/2.2.1/nondex-maven-plugin-2.2.1.jar (41 kB at 144 kB/s)
+[INFO] 
+[INFO] -----------------------< tk.mybatis:mapper-core >-----------------------
+[INFO] Building mapper-core 1.1.5
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] >>> nondex:2.2.1:nondex (default-cli) > test-compile @ mapper-core >>>
+[INFO] 
+[INFO] --- resources:3.5.0:resources (default-resources) @ mapper-core ---
+[INFO] skip non existing resourceDirectory /home/codespace/Mapper/core/src/main/resources
+[INFO] 
+[INFO] --- compiler:3.16.0:compile (default-compile) @ mapper-core ---
+[INFO] Loaded 64 auto-discovered prefixes for remote repository apache.snapshots (prefixes-apache.snapshots.txt)
+[INFO] Nothing to compile - all classes are up to date.
+[INFO] 
+[INFO] --- resources:3.5.0:testResources (default-testResources) @ mapper-core ---
+[INFO] skip non existing resourceDirectory /home/codespace/Mapper/core/src/test/resources
+[INFO] Copying 11 resources from src/test/java to target/test-classes
+[INFO] 
+[INFO] --- compiler:3.16.0:testCompile (default-testCompile) @ mapper-core ---
+[INFO] Nothing to compile - all classes are up to date.
+[INFO] 
+[INFO] <<< nondex:2.2.1:nondex (default-cli) < test-compile @ mapper-core <<<
+[INFO] 
+[INFO] 
+[INFO] --- nondex:2.2.1:nondex (default-cli) @ mapper-core ---
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-report-parser/2.19.1/surefire-report-parser-2.19.1.pom
+Downloading from central: https://repo.maven.apache.org/maven2/org/twdata/maven/mojo-executor/2.2.0/mojo-executor-2.2.0.pom
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.3.9/maven-core-3.3.9.pom
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.3.9/maven-model-3.3.9.pom
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.3.9/maven-plugin-api-3.3.9.pom
+Progress (1): 1.4 kBProgress (1): 1.5 kBProgress (1): 3.4 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-report-parser/2.19.1/surefire-report-parser-2.19.1.pom (3.4 kB at 37 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.19.1/surefire-2.19.1.pom
+Progress (1): 842 BProgress (1): 898 BProgress (1): 3.2 kBProgress (1): 5.3 kBProgress (1): 8.3 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.3.9/maven-core-3.3.9.pom (8.3 kB at 79 kB/s)
+Progress (1): 859 BProgress (1): 915 BProgress (1): 2.6 kBProgress (1): 4.8 kBProgress (1): 9.6 kBProgress (1): 13 kB Progress (2): 13 kB | 821 BProgress (2): 13 kB | 881 BProgress (3): 13 kB | 881 B | 811 BProgress (3): 13 kB | 881 B | 863 BProgress (3): 13 kB | 2.7 kB | 863 BProgress (3): 13 kB | 2.7 kB | 2.6 kBProgress (3): 13 kB | 2.7 kB | 4.0 kBProgress (3): 16 kB | 2.7 kB | 4.0 kBProgress (3): 18 kB | 2.7 kB | 4.0 kBProgress (3): 18 kB | 2.7 kB | 4.0 kB                                     Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.19.1/surefire-2.19.1.pom (18 kB at 308 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.3.9/maven-model-3.3.9.pom (4.0 kB at 25 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.3.9/maven-plugin-api-3.3.9.pom (2.7 kB at 17 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven/3.3.9/maven-3.3.9.pom
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/26/maven-parent-26.pom
+Progress (1): 735 BProgress (1): 1.9 kBProgress (1): 3.4 kBProgress (1): 5.3 kBProgress (1): 9.7 kBProgress (1): 15 kB Progress (1): 18 kBProgress (1): 20 kBProgress (1): 23 kBProgress (1): 24 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven/3.3.9/maven-3.3.9.pom (24 kB at 886 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/27/maven-parent-27.pom
+Progress (1): 854 BProgress (1): 917 BProgress (1): 2.2 kBProgress (2): 2.2 kB | 729 BProgress (2): 2.2 kB | 779 BProgress (2): 2.2 kB | 2.0 kBProgress (2): 2.2 kB | 6.2 kBProgress (2): 2.2 kB | 9.2 kBProgress (2): 2.2 kB | 14 kB Progress (2): 2.2 kB | 18 kBProgress (2): 2.2 kB | 20 kBProgress (2): 2.2 kB | 23 kBProgress (2): 2.2 kB | 25 kBProgress (2): 2.2 kB | 27 kBProgress (2): 2.2 kB | 30 kB                            Downloaded from central: https://repo.maven.apache.org/maven2/org/twdata/maven/mojo-executor/2.2.0/mojo-executor-2.2.0.pom (2.2 kB at 11 kB/s)
+Progress (1): 32 kBProgress (1): 36 kBProgress (1): 40 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/26/maven-parent-26.pom (40 kB at 1.2 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/twdata/maven/mojo-executor-parent/2.2.0/mojo-executor-parent-2.2.0.pom
+Progress (1): 730 BProgress (1): 2.0 kBProgress (1): 5.9 kBProgress (1): 10 kB Progress (1): 15 kBProgress (1): 19 kBProgress (1): 22 kBProgress (1): 24 kBProgress (1): 26 kBProgress (1): 30 kBProgress (1): 32 kBProgress (1): 35 kBProgress (1): 39 kBProgress (1): 41 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/27/maven-parent-27.pom (41 kB at 1.6 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/apache/16/apache-16.pom
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/apache/17/apache-17.pom
+Progress (1): 734 BProgress (1): 832 BProgress (1): 2.6 kBProgress (1): 5.8 kBProgress (1): 8.0 kBProgress (1): 9.3 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/twdata/maven/mojo-executor-parent/2.2.0/mojo-executor-parent-2.2.0.pom (9.3 kB at 343 kB/s)
+Progress (1): 745 BProgress (1): 2.1 kBProgress (1): 3.9 kBProgress (1): 7.8 kBProgress (1): 11 kB Progress (1): 14 kBProgress (1): 15 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/apache/16/apache-16.pom (15 kB at 642 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.24/plexus-utils-3.0.24.pom
+Progress (1): 749 BProgress (1): 810 BProgress (1): 2.2 kBProgress (1): 4.0 kBProgress (1): 6.9 kBProgress (1): 11 kB Progress (1): 14 kBProgress (1): 16 kB                   Downloading from central: https://repo.maven.apache.org/maven2/edu/illinois/nondex-common/2.2.1/nondex-common-2.2.1.pom
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/apache/17/apache-17.pom (16 kB at 472 kB/s)
+Progress (1): 810 BProgress (1): 2.4 kBProgress (1): 4.1 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.24/plexus-utils-3.0.24.pom (4.1 kB at 159 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/4.0/plexus-4.0.pom
+Downloading from central: https://repo.maven.apache.org/maven2/edu/illinois/nondex-instrumentation/2.2.1/nondex-instrumentation-2.2.1.pom
+Downloading from central: https://repo.maven.apache.org/maven2/edu/illinois/nondex-annotations/2.2.1/nondex-annotations-2.2.1.pom
+Downloading from central: https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.pom
+Progress (1): 707 BProgress (1): 749 BProgress (1): 2.7 kBProgress (1): 6.6 kBProgress (1): 8.7 kBProgress (1): 11 kB Progress (1): 15 kBProgress (1): 17 kBProgress (1): 22 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/4.0/plexus-4.0.pom (22 kB at 524 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/10/forge-parent-10.pom
+Progress (1): 732 BProgress (1): 796 BProgress (1): 2.1 kBProgress (1): 4.4 kBProgress (1): 6.3 kBProgress (1): 9.6 kBProgress (1): 12 kB Progress (1): 14 kBProgress (1): 19 kBProgress (1): 20 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.pom (20 kB at 545 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api-parent/2.3.1/jaxb-api-parent-2.3.1.pom
+Progress (1): 735 BProgress (1): 831 BProgress (1): 2.7 kBProgress (1): 8.8 kBProgress (1): 11 kB Progress (1): 14 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/10/forge-parent-10.pom (14 kB at 424 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/3.0/maven-reporting-api-3.0.pom
+Progress (1): 759 BProgress (1): 837 BProgress (1): 2.1 kBProgress (1): 4.2 kBProgress (1): 5.5 kBProgress (1): 8.1 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api-parent/2.3.1/jaxb-api-parent-2.3.1.pom (8.1 kB at 290 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/net/java/jvnet-parent/5/jvnet-parent-5.pom
+Progress (1): 816 BProgress (1): 867 BProgress (1): 2.4 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/3.0/maven-reporting-api-3.0.pom (2.4 kB at 91 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/15/maven-shared-components-15.pom
+Progress (1): 832 BProgress (1): 907 BProgress (1): 2.9 kBProgress (1): 5.7 kBProgress (1): 8.9 kBProgress (2): 8.9 kB | 770 BProgress (2): 8.9 kB | 829 BProgress (2): 8.9 kB | 3.3 kBProgress (2): 8.9 kB | 6.7 kBProgress (2): 8.9 kB | 8.3 kBProgress (2): 8.9 kB | 9.3 kB                             Downloaded from central: https://repo.maven.apache.org/maven2/net/java/jvnet-parent/5/jvnet-parent-5.pom (8.9 kB at 216 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/15/maven-shared-components-15.pom (9.3 kB at 373 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/16/maven-parent-16.pom
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.0/maven-core-3.0.pom
+Progress (1): 742 BProgress (1): 785 BProgress (1): 2.0 kBProgress (1): 6.8 kBProgress (1): 10 kB Progress (1): 14 kBProgress (1): 17 kBProgress (1): 18 kBProgress (1): 22 kBProgress (1): 23 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/16/maven-parent-16.pom (23 kB at 862 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/apache/7/apache-7.pom
+Progress (1): 799 BProgress (1): 857 BProgress (1): 4.2 kBProgress (1): 6.6 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.0/maven-core-3.0.pom (6.6 kB at 207 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven/3.0/maven-3.0.pom
+Progress (1): 754 BProgress (1): 798 BProgress (1): 2.0 kBProgress (1): 3.8 kBProgress (1): 5.2 kBProgress (1): 10 kB Progress (1): 13 kBProgress (1): 14 kBProgress (2): 14 kB | 759 BProgress (2): 14 kB | 805 BProgress (2): 14 kB | 2.0 kBProgress (2): 14 kB | 5.1 kBProgress (2): 14 kB | 7.4 kBProgress (2): 14 kB | 13 kB Progress (2): 14 kB | 17 kBProgress (2): 14 kB | 19 kBProgress (2): 14 kB | 22 kB                           Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/apache/7/apache-7.pom (14 kB at 401 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven/3.0/maven-3.0.pom (22 kB at 782 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/15/maven-parent-15.pom
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.0/maven-model-3.0.pom
+Progress (1): 743 BProgress (1): 785 BProgress (1): 2.0 kBProgress (1): 6.7 kBProgress (1): 12 kB Progress (1): 15 kBProgress (1): 17 kBProgress (1): 20 kBProgress (1): 24 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/15/maven-parent-15.pom (24 kB at 1.1 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/apache/6/apache-6.pom
+Progress (1): 793 BProgress (1): 854 BProgress (1): 2.8 kBProgress (1): 3.9 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.0/maven-model-3.0.pom (3.9 kB at 134 kB/s)
+Progress (1): 749 BProgress (1): 2.0 kBProgress (1): 3.7 kBProgress (1): 6.9 kBProgress (1): 11 kB Progress (1): 13 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/apache/6/apache-6.pom (13 kB at 413 kB/s)
+Progress (1): 1.3 kBProgress (1): 1.5 kBProgress (1): 2.6 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/edu/illinois/nondex-common/2.2.1/nondex-common-2.2.1.pom (2.6 kB at 8.4 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.0/maven-plugin-api-3.0.pom
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.1/plexus-utils-1.5.1.pom
+Progress (1): 823 BProgress (1): 875 BProgress (1): 2.3 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.0/maven-plugin-api-3.0.pom (2.3 kB at 99 kB/s)
+Progress (1): 1.2 kBProgress (1): 2.3 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.1/plexus-utils-1.5.1.pom (2.3 kB at 100 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.3.9/maven-settings-3.3.9.pom
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.11/plexus-1.0.11.pom
+Progress (1): 832 BProgress (1): 1.8 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.3.9/maven-settings-3.3.9.pom (1.8 kB at 65 kB/s)
+Progress (1): 1.2 kBProgress (1): 1.2 kBProgress (1): 4.6 kBProgress (1): 7.7 kBProgress (1): 9.0 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.11/plexus-1.0.11.pom (9.0 kB at 320 kB/s)
+Progress (1): 1.4 kBProgress (1): 4.0 kBProgress (1): 4.0 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/edu/illinois/nondex-instrumentation/2.2.1/nondex-instrumentation-2.2.1.pom (4.0 kB at 11 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.3.9/maven-settings-builder-3.3.9.pom
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.3.9/maven-repository-metadata-3.3.9.pom
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.3.9/maven-model-builder-3.3.9.pom
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.3.9/maven-artifact-3.3.9.pom
+Progress (1): 1.4 kBProgress (1): 1.5 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/edu/illinois/nondex-annotations/2.2.1/nondex-annotations-2.2.1.pom (1.5 kB at 4.2 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.3.9/maven-aether-provider-3.3.9.pom
+Progress (1): 831 BProgress (1): 1.9 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.3.9/maven-repository-metadata-3.3.9.pom (1.9 kB at 82 kB/s)
+Progress (1): 823 BProgress (1): 882 BProgress (1): 2.6 kBProgress (2): 2.6 kB | 836 BProgress (2): 2.6 kB | 3.1 kB                             Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.3.9/maven-model-builder-3.3.9.pom (3.1 kB at 143 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.3.9/maven-settings-builder-3.3.9.pom (2.6 kB at 75 kB/s)
+Progress (1): 815 BProgress (1): 866 BProgress (1): 3.8 kBProgress (1): 4.0 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.3.9/maven-aether-provider-3.3.9.pom (4.0 kB at 192 kB/s)
+Progress (1): 852 BProgress (1): 911 BProgress (1): 2.1 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.3.9/maven-artifact-3.3.9.pom (2.1 kB at 61 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-impl/1.0.2.v20150114/aether-impl-1.0.2.v20150114.pom
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-api/1.0.2.v20150114/aether-api-1.0.2.v20150114.pom
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-util/1.0.2.v20150114/aether-util-1.0.2.v20150114.pom
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.plexus/0.3.2/org.eclipse.sisu.plexus-0.3.2.pom
+Downloading from central: https://repo.maven.apache.org/maven2/com/google/inject/guice/4.0/guice-4.0.pom
+Progress (1): 921 BProgress (1): 977 BProgress (1): 3.4 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-impl/1.0.2.v20150114/aether-impl-1.0.2.v20150114.pom (3.4 kB at 120 kB/s)
+Progress (1): 918 BProgress (1): 2.1 kBProgress (2): 2.1 kB | 922 BProgress (2): 2.1 kB | 986 B                            Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-util/1.0.2.v20150114/aether-util-1.0.2.v20150114.pom (2.1 kB at 96 kB/s)
+Progress (1): 1.8 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-api/1.0.2.v20150114/aether-api-1.0.2.v20150114.pom (1.8 kB at 63 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether/1.0.2.v20150114/aether-1.0.2.v20150114.pom
+Progress (1): 904 BProgress (1): 955 BProgress (1): 3.2 kBProgress (1): 4.2 kBProgress (2): 4.2 kB | 1.6 kBProgress (2): 4.2 kB | 3.6 kBProgress (2): 4.2 kB | 6.3 kBProgress (2): 4.2 kB | 9.9 kBProgress (2): 4.2 kB | 11 kB                             Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.plexus/0.3.2/org.eclipse.sisu.plexus-0.3.2.pom (4.2 kB at 110 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/com/google/inject/guice/4.0/guice-4.0.pom (11 kB at 295 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/google/inject/guice-parent/4.0/guice-parent-4.0.pom
+Progress (1): 795 BProgress (1): 848 BProgress (1): 3.2 kBProgress (1): 5.2 kBProgress (1): 8.3 kBProgress (1): 11 kB Progress (1): 15 kBProgress (1): 18 kBProgress (1): 21 kBProgress (1): 24 kBProgress (1): 27 kBProgress (1): 29 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether/1.0.2.v20150114/aether-1.0.2.v20150114.pom (29 kB at 772 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/sisu/sisu-plexus/0.3.2/sisu-plexus-0.3.2.pom
+Progress (1): 801 B                   Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.21/plexus-interpolation-1.21.pom
+Progress (1): 903 BProgress (1): 2.9 kBProgress (1): 4.8 kBProgress (1): 6.6 kBProgress (1): 8.7 kBProgress (1): 12 kB Progress (1): 14 kBProgress (1): 15 kBProgress (2): 15 kB | 861 BProgress (2): 15 kB | 2.9 kBProgress (2): 15 kB | 5.2 kBProgress (2): 15 kB | 9.8 kBProgress (2): 15 kB | 11 kB Progress (2): 15 kB | 14 kB                           Downloaded from central: https://repo.maven.apache.org/maven2/com/google/inject/guice-parent/4.0/guice-parent-4.0.pom (15 kB at 419 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/sisu/sisu-plexus/0.3.2/sisu-plexus-0.3.2.pom (14 kB at 549 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/google/google/5/google-5.pom
+Progress (1): 1.3 kBProgress (1): 1.4 kBProgress (1): 1.5 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.21/plexus-interpolation-1.21.pom (1.5 kB at 53 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.3.1/plexus-components-1.3.1.pom
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom
+Progress (1): 1.2 kBProgress (1): 2.5 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/com/google/google/5/google-5.pom (2.5 kB at 112 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.pom
+Progress (1): 838 BProgress (1): 941 BProgress (1): 2.8 kBProgress (1): 6.6 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom (6.6 kB at 313 kB/s)
+Progress (1): 1.3 kBProgress (1): 3.1 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.3.1/plexus-components-1.3.1.pom (3.1 kB at 113 kB/s)
+Progress (1): 812 BProgress (1): 872 BProgress (1): 2.4 kBProgress (1): 3.8 kB                    Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.5.2/plexus-classworlds-2.5.2.pom
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.22/plexus-utils-3.0.22.pom (3.8 kB at 142 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.6/plexus-component-annotations-1.6.pom
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.pom
+Progress (1): 930 BProgress (1): 992 BProgress (1): 3.1 kBProgress (1): 6.3 kBProgress (1): 7.3 kBProgress (2): 7.3 kB | 748 B                            Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.6/plexus-component-annotations-1.6.pom (748 B at 42 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.5.2/plexus-classworlds-2.5.2.pom (7.3 kB at 318 kB/s)
+Progress (1): 1.3 kBProgress (1): 1.5 kBProgress (1): 3.0 kB                    Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.6/plexus-containers-1.6.pom
+Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.pom (3.0 kB at 110 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/12/spice-parent-12.pom
+Progress (1): 1.2 kBProgress (1): 1.3 kBProgress (1): 3.8 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.6/plexus-containers-1.6.pom (3.8 kB at 209 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.3.2/plexus-3.3.2.pom
+Progress (1): 1.2 kBProgress (1): 4.2 kBProgress (1): 6.8 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/12/spice-parent-12.pom (6.8 kB at 272 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/4/forge-parent-4.pom
+Progress (1): 703 BProgress (1): 806 BProgress (1): 2.6 kBProgress (1): 6.2 kBProgress (1): 8.3 kBProgress (1): 9.9 kBProgress (1): 14 kB Progress (1): 17 kBProgress (1): 22 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.3.2/plexus-3.3.2.pom (22 kB at 897 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/17/spice-parent-17.pom
+Progress (1): 1.4 kBProgress (1): 5.8 kBProgress (1): 8.4 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/4/forge-parent-4.pom (8.4 kB at 420 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.pom
+Progress (1): 1.2 kBProgress (1): 1.3 kBProgress (1): 3.5 kBProgress (1): 6.8 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/17/spice-parent-17.pom (6.8 kB at 233 kB/s)
+Progress (1): 759 BProgress (1): 2.2 kBProgress (1): 5.5 kBProgress (1): 8.9 kBProgress (1): 12 kB Progress (1): 14 kBProgress (1): 15 kBProgress (1): 18 kBProgress (1): 21 kBProgress (1): 22 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.pom (22 kB at 1.0 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/37/commons-parent-37.pom
+Progress (1): 708 BProgress (1): 1.8 kBProgress (1): 3.0 kBProgress (1): 4.3 kBProgress (1): 5.8 kBProgress (1): 9.3 kBProgress (1): 11 kB Progress (1): 15 kBProgress (1): 18 kBProgress (1): 21 kBProgress (1): 24 kBProgress (1): 26 kBProgress (1): 29 kBProgress (1): 33 kBProgress (1): 35 kBProgress (1): 36 kBProgress (1): 38 kBProgress (1): 42 kBProgress (1): 49 kBProgress (1): 51 kBProgress (1): 54 kBProgress (1): 56 kBProgress (1): 59 kBProgress (1): 61 kBProgress (1): 61 kBProgress (1): 63 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/37/commons-parent-37.pom (63 kB at 1.1 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.0/doxia-sink-api-1.0.pom
+Progress (1): 835 BProgress (1): 1.4 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.0/doxia-sink-api-1.0.pom (1.4 kB at 73 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia/1.0/doxia-1.0.pom
+Progress (1): 762 BProgress (1): 2.2 kBProgress (1): 5.7 kBProgress (1): 8.9 kBProgress (1): 9.6 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia/1.0/doxia-1.0.pom (9.6 kB at 419 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/10/maven-parent-10.pom
+Progress (1): 736 BProgress (1): 1.9 kBProgress (1): 6.2 kBProgress (1): 11 kB Progress (1): 14 kBProgress (1): 16 kBProgress (1): 22 kBProgress (1): 25 kBProgress (1): 29 kBProgress (1): 32 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/10/maven-parent-10.pom (32 kB at 1.3 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/apache/4/apache-4.pom
+Progress (1): 790 BProgress (1): 2.1 kBProgress (1): 4.2 kBProgress (1): 4.5 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/apache/4/apache-4.pom (4.5 kB at 225 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-builder-support/3.3.9/maven-builder-support-3.3.9.pom
+Progress (1): 835 BProgress (1): 1.7 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-builder-support/3.3.9/maven-builder-support-3.3.9.pom (1.7 kB at 75 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/google/guava/guava/18.0/guava-18.0.pom
+Progress (1): 955 BProgress (1): 2.8 kBProgress (1): 5.0 kBProgress (1): 5.7 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/com/google/guava/guava/18.0/guava-18.0.pom (5.7 kB at 270 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/18.0/guava-parent-18.0.pom
+Progress (1): 1.1 kBProgress (1): 2.9 kBProgress (1): 6.3 kBProgress (1): 7.7 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/18.0/guava-parent-18.0.pom (7.7 kB at 320 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-spi/1.0.2.v20150114/aether-spi-1.0.2.v20150114.pom
+Progress (1): 916 BProgress (1): 2.0 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-spi/1.0.2.v20150114/aether-spi-1.0.2.v20150114.pom (2.0 kB at 104 kB/s)
+[WARNING] Could not transfer metadata /.meta/prefixes.txt from/to jvnet-nexus-releases (https://maven.java.net/content/repositories/releases/): PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+Downloading from central: https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0/cdi-api-1.0.pom
+Downloading from central: https://repo.maven.apache.org/maven2/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.pom
+Progress (1): 755 BProgress (1): 2.1 kBProgress (1): 3.5 kBProgress (1): 4.9 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.pom (4.9 kB at 259 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/sun/activation/all/1.2.0/all-1.2.0.pom
+Progress (1): 1.4 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0/cdi-api-1.0.pom (1.4 kB at 51 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/jboss/weld/weld-api-parent/1.0/weld-api-parent-1.0.pom
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.3.1/plexus-3.3.1.pom
+Progress (1): 696 BProgress (1): 2.0 kBProgress (1): 3.4 kBProgress (1): 5.4 kBProgress (1): 7.8 kBProgress (1): 9.8 kBProgress (1): 12 kB Progress (1): 15 kBProgress (1): 18 kBProgress (1): 18 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/com/sun/activation/all/1.2.0/all-1.2.0.pom (18 kB at 897 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/net/java/jvnet-parent/1/jvnet-parent-1.pom
+Progress (1): 707 BProgress (1): 812 BProgress (1): 2.8 kBProgress (1): 6.2 kBProgress (1): 8.2 kBProgress (1): 9.8 kBProgress (1): 14 kB Progress (1): 18 kBProgress (1): 20 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.3.1/plexus-3.3.1.pom (20 kB at 818 kB/s)
+Progress (1): 1.1 kBProgress (1): 2.4 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/jboss/weld/weld-api-parent/1.0/weld-api-parent-1.0.pom (2.4 kB at 87 kB/s)
+Progress (1): 843 BProgress (1): 2.5 kBProgress (1): 4.7 kB                    Downloading from central: https://repo.maven.apache.org/maven2/org/jboss/weld/weld-api-bom/1.0/weld-api-bom-1.0.pom
+Downloaded from central: https://repo.maven.apache.org/maven2/net/java/jvnet-parent/1/jvnet-parent-1.pom (4.7 kB at 236 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.inject/0.3.2/org.eclipse.sisu.inject-0.3.2.pom
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.pom
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.17/plexus-utils-3.0.17.pom
+Progress (1): 914 BProgress (1): 2.6 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.inject/0.3.2/org.eclipse.sisu.inject-0.3.2.pom (2.6 kB at 125 kB/s)
+Progress (1): 987 BProgress (1): 3.4 kBProgress (1): 7.9 kBProgress (1): 7.9 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/jboss/weld/weld-api-bom/1.0/weld-api-bom-1.0.pom (7.9 kB at 293 kB/s)
+Progress (1): 815 B                   Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.pom (815 B at 35 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/jboss/weld/weld-parent/6/weld-parent-6.pom
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/sisu/sisu-inject/0.3.2/sisu-inject-0.3.2.pom
+Progress (1): 817 BProgress (1): 2.3 kBProgress (1): 3.4 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.17/plexus-utils-3.0.17.pom (3.4 kB at 154 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.5.5/plexus-containers-1.5.5.pom
+Progress (1): 1.1 kBProgress (1): 3.6 kBProgress (1): 7.1 kBProgress (1): 13 kB Progress (1): 17 kBProgress (1): 20 kBProgress (1): 21 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/jboss/weld/weld-parent/6/weld-parent-6.pom (21 kB at 941 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.pom
+Progress (1): 860 BProgress (1): 936 BProgress (1): 2.9 kBProgress (1): 5.2 kBProgress (1): 8.7 kBProgress (1): 11 kB Progress (1): 14 kBProgress (1): 14 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/sisu/sisu-inject/0.3.2/sisu-inject-0.3.2.pom (14 kB at 515 kB/s)
+Progress (1): 1.3 kBProgress (1): 4.2 kB                    Downloading from central: https://repo.maven.apache.org/maven2/com/google/guava/guava/16.0.1/guava-16.0.1.pom
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.5.5/plexus-containers-1.5.5.pom (4.2 kB at 146 kB/s)
+Progress (1): 363 B                   Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/2.0.7/plexus-2.0.7.pom
+Downloaded from central: https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.pom (363 B at 13 kB/s)
+Progress (1): 956 BProgress (1): 2.8 kBProgress (1): 5.3 kBProgress (1): 6.1 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/com/google/guava/guava/16.0.1/guava-16.0.1.pom (6.1 kB at 254 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.5/plexus-utils-1.5.5.pom
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.pom
+Progress (1): 711 BProgress (1): 2.8 kBProgress (1): 6.4 kBProgress (1): 9.1 kBProgress (1): 13 kB Progress (1): 17 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/2.0.7/plexus-2.0.7.pom (17 kB at 865 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.pom
+Downloading from central: https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/16.0.1/guava-parent-16.0.1.pom
+Progress (1): 1.4 kBProgress (1): 1.5 kBProgress (1): 2.1 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.pom (2.1 kB at 86 kB/s)
+Progress (1): 1.4 kBProgress (1): 4.4 kBProgress (1): 5.1 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.5/plexus-utils-1.5.5.pom (5.1 kB at 214 kB/s)
+Progress (1): 1.1 kBProgress (1): 2.9 kBProgress (1): 6.3 kBProgress (1): 7.3 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/16.0.1/guava-parent-16.0.1.pom (7.3 kB at 408 kB/s)
+Progress (1): 1.0 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.pom (1.0 kB at 35 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-report-parser/2.19.1/surefire-report-parser-2.19.1.jar
+Progress (1): 3.4/63 kBProgress (1): 7.6/63 kBProgress (1): 8.2/63 kBProgress (1): 12/63 kB Progress (1): 17/63 kBProgress (1): 21/63 kBProgress (1): 25/63 kBProgress (1): 29/63 kBProgress (1): 33/63 kBProgress (1): 37/63 kBProgress (1): 41/63 kBProgress (1): 46/63 kBProgress (1): 50/63 kBProgress (1): 54/63 kBProgress (1): 58/63 kBProgress (1): 63/63 kBProgress (1): 63 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-report-parser/2.19.1/surefire-report-parser-2.19.1.jar (63 kB at 1.9 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/twdata/maven/mojo-executor/2.2.0/mojo-executor-2.2.0.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.3.9/maven-core-3.3.9.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.3.9/maven-plugin-api-3.3.9.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.3.9/maven-model-3.3.9.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.24/plexus-utils-3.0.24.jar
+Progress (1): 7.7/638 kBProgress (1): 16/638 kB Progress (1): 24/638 kBProgress (1): 40/638 kBProgress (1): 57/638 kBProgress (1): 66/638 kBProgress (2): 66/638 kB | 3.8/164 kBProgress (2): 66/638 kB | 8.0/164 kBProgress (2): 66/638 kB | 12/164 kB Progress (3): 66/638 kB | 12/164 kB | 3.8/47 kBProgress (3): 66/638 kB | 12/164 kB | 3.8/47 kBProgress (3): 66/638 kB | 17/164 kB | 3.8/47 kBProgress (3): 66/638 kB | 17/164 kB | 8.0/47 kBProgress (3): 66/638 kB | 21/164 kB | 8.0/47 kBProgress (3): 66/638 kB | 21/164 kB | 11/47 kB Progress (3): 66/638 kB | 25/164 kB | 11/47 kBProgress (3): 66/638 kB | 25/164 kB | 16/47 kBProgress (3): 66/638 kB | 25/164 kB | 20/47 kBProgress (3): 66/638 kB | 25/164 kB | 24/47 kBProgress (3): 66/638 kB | 25/164 kB | 28/47 kBProgress (3): 66/638 kB | 25/164 kB | 32/47 kBProgress (3): 66/638 kB | 25/164 kB | 36/47 kBProgress (3): 66/638 kB | 25/164 kB | 40/47 kBProgress (3): 66/638 kB | 29/164 kB | 40/47 kBProgress (3): 66/638 kB | 33/164 kB | 40/47 kBProgress (3): 66/638 kB | 37/164 kB | 40/47 kBProgress (3): 66/638 kB | 41/164 kB | 40/47 kBProgress (3): 66/638 kB | 45/164 kB | 40/47 kBProgress (3): 66/638 kB | 50/164 kB | 40/47 kBProgress (3): 66/638 kB | 54/164 kB | 40/47 kBProgress (3): 66/638 kB | 58/164 kB | 40/47 kBProgress (3): 66/638 kB | 62/164 kB | 40/47 kBProgress (3): 82/638 kB | 62/164 kB | 40/47 kBProgress (3): 98/638 kB | 62/164 kB | 40/47 kBProgress (3): 115/638 kB | 62/164 kB | 40/47 kBProgress (3): 131/638 kB | 62/164 kB | 40/47 kBProgress (3): 131/638 kB | 66/164 kB | 40/47 kBProgress (3): 131/638 kB | 70/164 kB | 40/47 kBProgress (3): 131/638 kB | 74/164 kB | 40/47 kBProgress (3): 131/638 kB | 78/164 kB | 40/47 kBProgress (3): 131/638 kB | 82/164 kB | 40/47 kBProgress (3): 131/638 kB | 87/164 kB | 40/47 kBProgress (3): 131/638 kB | 91/164 kB | 40/47 kBProgress (4): 131/638 kB | 91/164 kB | 40/47 kB | 0.9/247 kBProgress (4): 131/638 kB | 91/164 kB | 40/47 kB | 2.3/247 kBProgress (4): 131/638 kB | 91/164 kB | 40/47 kB | 3.6/247 kBProgress (4): 131/638 kB | 91/164 kB | 40/47 kB | 5.0/247 kBProgress (4): 131/638 kB | 91/164 kB | 40/47 kB | 6.4/247 kBProgress (4): 131/638 kB | 91/164 kB | 40/47 kB | 7.7/247 kBProgress (4): 131/638 kB | 91/164 kB | 40/47 kB | 9.1/247 kBProgress (4): 131/638 kB | 91/164 kB | 45/47 kB | 9.1/247 kBProgress (4): 131/638 kB | 91/164 kB | 45/47 kB | 10/247 kB Progress (4): 131/638 kB | 91/164 kB | 45/47 kB | 12/247 kBProgress (4): 131/638 kB | 91/164 kB | 47 kB | 12/247 kB   Progress (4): 131/638 kB | 91/164 kB | 47 kB | 16/247 kBProgress (4): 131/638 kB | 91/164 kB | 47 kB | 20/247 kBProgress (4): 131/638 kB | 91/164 kB | 47 kB | 24/247 kBProgress (4): 147/638 kB | 91/164 kB | 47 kB | 24/247 kB                                                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.3.9/maven-plugin-api-3.3.9.jar (47 kB at 1.1 MB/s)
+Progress (3): 164/638 kB | 91/164 kB | 24/247 kBProgress (3): 164/638 kB | 95/164 kB | 24/247 kBProgress (3): 164/638 kB | 98/164 kB | 24/247 kBProgress (3): 164/638 kB | 103/164 kB | 24/247 kBProgress (3): 164/638 kB | 107/164 kB | 24/247 kBProgress (3): 164/638 kB | 111/164 kB | 24/247 kBProgress (3): 164/638 kB | 115/164 kB | 24/247 kBProgress (3): 164/638 kB | 119/164 kB | 24/247 kBProgress (3): 164/638 kB | 124/164 kB | 24/247 kBProgress (3): 164/638 kB | 128/164 kB | 24/247 kB                                                 Downloading from central: https://repo.maven.apache.org/maven2/edu/illinois/nondex-common/2.2.1/nondex-common-2.2.1.jar
+Progress (3): 164/638 kB | 128/164 kB | 28/247 kBProgress (3): 164/638 kB | 128/164 kB | 33/247 kBProgress (3): 164/638 kB | 128/164 kB | 37/247 kBProgress (3): 164/638 kB | 128/164 kB | 41/247 kBProgress (3): 180/638 kB | 128/164 kB | 41/247 kBProgress (3): 197/638 kB | 128/164 kB | 41/247 kBProgress (3): 213/638 kB | 128/164 kB | 41/247 kBProgress (3): 229/638 kB | 128/164 kB | 41/247 kBProgress (3): 229/638 kB | 128/164 kB | 45/247 kBProgress (3): 229/638 kB | 128/164 kB | 49/247 kBProgress (3): 229/638 kB | 128/164 kB | 54/247 kBProgress (3): 229/638 kB | 132/164 kB | 54/247 kBProgress (3): 229/638 kB | 136/164 kB | 54/247 kBProgress (3): 229/638 kB | 141/164 kB | 54/247 kBProgress (3): 229/638 kB | 145/164 kB | 54/247 kBProgress (3): 229/638 kB | 147/164 kB | 54/247 kBProgress (3): 229/638 kB | 152/164 kB | 54/247 kBProgress (3): 229/638 kB | 164 kB | 54/247 kB    Progress (3): 246/638 kB | 164 kB | 54/247 kBProgress (3): 246/638 kB | 164 kB | 57/247 kBProgress (3): 246/638 kB | 164 kB | 61/247 kBProgress (3): 246/638 kB | 164 kB | 65/247 kBProgress (3): 246/638 kB | 164 kB | 70/247 kBProgress (3): 246/638 kB | 164 kB | 74/247 kBProgress (3): 246/638 kB | 164 kB | 78/247 kBProgress (3): 246/638 kB | 164 kB | 82/247 kBProgress (3): 262/638 kB | 164 kB | 82/247 kBProgress (3): 262/638 kB | 164 kB | 86/247 kBProgress (3): 262/638 kB | 164 kB | 91/247 kBProgress (3): 262/638 kB | 164 kB | 95/247 kB                                             Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.3.9/maven-model-3.3.9.jar (164 kB at 2.8 MB/s)
+Progress (2): 262/638 kB | 99/247 kBProgress (2): 262/638 kB | 103/247 kBProgress (2): 262/638 kB | 108/247 kB                                     Downloading from central: https://repo.maven.apache.org/maven2/edu/illinois/nondex-instrumentation/2.2.1/nondex-instrumentation-2.2.1.jar
+Progress (2): 279/638 kB | 108/247 kBProgress (2): 295/638 kB | 108/247 kBProgress (2): 311/638 kB | 108/247 kBProgress (2): 311/638 kB | 112/247 kBProgress (2): 311/638 kB | 116/247 kBProgress (2): 311/638 kB | 120/247 kBProgress (2): 311/638 kB | 122/247 kBProgress (2): 311/638 kB | 122/247 kBProgress (2): 311/638 kB | 127/247 kBProgress (2): 328/638 kB | 127/247 kBProgress (2): 328/638 kB | 131/247 kBProgress (2): 328/638 kB | 135/247 kBProgress (2): 328/638 kB | 139/247 kBProgress (2): 344/638 kB | 139/247 kBProgress (2): 344/638 kB | 144/247 kBProgress (2): 344/638 kB | 148/247 kBProgress (2): 360/638 kB | 148/247 kBProgress (2): 377/638 kB | 148/247 kBProgress (2): 377/638 kB | 152/247 kBProgress (2): 377/638 kB | 156/247 kBProgress (2): 377/638 kB | 160/247 kBProgress (2): 377/638 kB | 165/247 kBProgress (2): 377/638 kB | 169/247 kBProgress (2): 377/638 kB | 173/247 kBProgress (2): 393/638 kB | 173/247 kBProgress (2): 393/638 kB | 188/247 kBProgress (2): 410/638 kB | 188/247 kBProgress (2): 426/638 kB | 188/247 kBProgress (2): 426/638 kB | 204/247 kBProgress (2): 442/638 kB | 204/247 kBProgress (2): 442/638 kB | 221/247 kBProgress (2): 459/638 kB | 221/247 kBProgress (2): 475/638 kB | 221/247 kBProgress (2): 492/638 kB | 221/247 kBProgress (2): 492/638 kB | 237/247 kBProgress (2): 492/638 kB | 247 kB    Progress (2): 508/638 kB | 247 kBProgress (2): 524/638 kB | 247 kB                                 Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.24/plexus-utils-3.0.24.jar (247 kB at 3.6 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/edu/illinois/nondex-annotations/2.2.1/nondex-annotations-2.2.1.jar
+Progress (1): 541/638 kBProgress (1): 557/638 kBProgress (1): 573/638 kBProgress (1): 590/638 kBProgress (1): 606/638 kBProgress (1): 623/638 kBProgress (1): 638 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.3.9/maven-core-3.3.9.jar (638 kB at 7.7 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.jar
+Progress (1): 7.7/128 kBProgress (1): 16/128 kB Progress (1): 24/128 kBProgress (1): 40/128 kBProgress (1): 57/128 kBProgress (1): 73/128 kBProgress (1): 90/128 kBProgress (1): 106/128 kBProgress (1): 122/128 kBProgress (1): 128 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.jar (128 kB at 1.2 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/3.0/maven-reporting-api-3.0.jar
+Progress (1): 7.3/11 kBProgress (1): 11 kB                       Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/3.0/maven-reporting-api-3.0.jar (11 kB at 88 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.3.9/maven-settings-3.3.9.jar
+Progress (1): 3.2/44 kBProgress (1): 20/44 kB Progress (1): 28/44 kBProgress (1): 44/44 kBProgress (1): 44 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.3.9/maven-settings-3.3.9.jar (44 kB at 299 kB/s)
+Progress (1): 3.2/12 kB                       Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.3.9/maven-settings-builder-3.3.9.jar
+Progress (1): 7.4/12 kBProgress (1): 12 kB                       Downloaded from central: https://repo.maven.apache.org/maven2/org/twdata/maven/mojo-executor/2.2.0/mojo-executor-2.2.0.jar (12 kB at 72 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.3.9/maven-repository-metadata-3.3.9.jar
+Progress (1): 3.8/43 kBProgress (1): 4.1/43 kBProgress (2): 4.1/43 kB | 3.2/27 kBProgress (2): 8.3/43 kB | 3.2/27 kBProgress (2): 13/43 kB | 3.2/27 kB Progress (2): 13/43 kB | 11/27 kB Progress (2): 17/43 kB | 11/27 kBProgress (2): 21/43 kB | 11/27 kBProgress (2): 25/43 kB | 11/27 kBProgress (2): 29/43 kB | 11/27 kBProgress (2): 33/43 kB | 11/27 kBProgress (2): 37/43 kB | 11/27 kBProgress (3): 37/43 kB | 11/27 kB | 2.1 kB                                          Downloaded from central: https://repo.maven.apache.org/maven2/edu/illinois/nondex-annotations/2.2.1/nondex-annotations-2.2.1.jar (2.1 kB at 12 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.3.9/maven-artifact-3.3.9.jar
+Progress (2): 41/43 kB | 11/27 kBProgress (2): 43 kB | 11/27 kB   Progress (2): 43 kB | 27 kB                              Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.3.9/maven-settings-builder-3.3.9.jar (43 kB at 242 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.3.9/maven-model-builder-3.3.9.jar
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.3.9/maven-repository-metadata-3.3.9.jar (27 kB at 152 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.3.9/maven-aether-provider-3.3.9.jar
+Progress (1): 3.2/55 kBProgress (1): 11/55 kB Progress (1): 28/55 kBProgress (1): 44/55 kBProgress (1): 55 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.3.9/maven-artifact-3.3.9.jar (55 kB at 276 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-impl/1.0.2.v20150114/aether-impl-1.0.2.v20150114.jar
+Progress (1): 7.7/67 kBProgress (1): 16/67 kB Progress (1): 24/67 kBProgress (2): 24/67 kB | 3.2/177 kBProgress (2): 40/67 kB | 3.2/177 kBProgress (2): 57/67 kB | 3.2/177 kBProgress (2): 57/67 kB | 20/177 kB Progress (2): 57/67 kB | 28/177 kBProgress (2): 67 kB | 28/177 kB   Progress (2): 67 kB | 44/177 kB                               Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.3.9/maven-aether-provider-3.3.9.jar (67 kB at 321 kB/s)
+Progress (1): 61/177 kB                       Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-api/1.0.2.v20150114/aether-api-1.0.2.v20150114.jar
+Progress (1): 77/177 kBProgress (1): 93/177 kBProgress (1): 110/177 kBProgress (1): 126/177 kBProgress (1): 142/177 kBProgress (1): 159/177 kBProgress (1): 175/177 kBProgress (1): 177 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.3.9/maven-model-builder-3.3.9.jar (177 kB at 812 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-util/1.0.2.v20150114/aether-util-1.0.2.v20150114.jar
+Progress (1): 3.2/136 kBProgress (1): 11/136 kB Progress (1): 28/136 kBProgress (1): 44/136 kBProgress (1): 61/136 kBProgress (1): 77/136 kBProgress (1): 93/136 kBProgress (1): 110/136 kBProgress (1): 126/136 kBProgress (1): 136 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-api/1.0.2.v20150114/aether-api-1.0.2.v20150114.jar (136 kB at 575 kB/s)
+Progress (1): 7.7/173 kBProgress (1): 11/173 kB Progress (1): 28/173 kB                       Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.plexus/0.3.2/org.eclipse.sisu.plexus-0.3.2.jar
+Progress (1): 44/173 kBProgress (1): 61/173 kBProgress (1): 77/173 kBProgress (1): 93/173 kBProgress (1): 110/173 kBProgress (1): 115/173 kBProgress (1): 131/173 kBProgress (1): 147/173 kBProgress (1): 164/173 kBProgress (1): 173 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-impl/1.0.2.v20150114/aether-impl-1.0.2.v20150114.jar (173 kB at 700 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/google/inject/guice/4.0/guice-4.0-no_aop.jar
+Progress (1): 3.2/147 kBProgress (1): 20/147 kB Progress (1): 28/147 kBProgress (1): 44/147 kBProgress (1): 61/147 kBProgress (1): 77/147 kBProgress (1): 93/147 kBProgress (1): 110/147 kBProgress (1): 126/147 kBProgress (2): 126/147 kB | 3.2/205 kBProgress (2): 126/147 kB | 20/205 kB Progress (2): 126/147 kB | 28/205 kBProgress (2): 142/147 kB | 28/205 kBProgress (2): 147 kB | 28/205 kB    Progress (2): 147 kB | 44/205 kBProgress (2): 147 kB | 61/205 kB                                Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-util/1.0.2.v20150114/aether-util-1.0.2.v20150114.jar (147 kB at 563 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.21/plexus-interpolation-1.21.jar
+Progress (1): 77/205 kBProgress (1): 93/205 kBProgress (1): 110/205 kBProgress (1): 126/205 kBProgress (1): 142/205 kBProgress (1): 159/205 kBProgress (1): 175/205 kBProgress (1): 192/205 kBProgress (1): 205 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.plexus/0.3.2/org.eclipse.sisu.plexus-0.3.2.jar (205 kB at 761 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.5.2/plexus-classworlds-2.5.2.jar
+Progress (1): 7.7/424 kBProgress (1): 7.7/424 kBProgress (1): 24/424 kB Progress (1): 40/424 kBProgress (1): 57/424 kBProgress (1): 73/424 kBProgress (1): 90/424 kBProgress (1): 106/424 kBProgress (1): 122/424 kBProgress (1): 139/424 kBProgress (1): 155/424 kBProgress (1): 172/424 kBProgress (1): 188/424 kBProgress (1): 204/424 kBProgress (1): 221/424 kBProgress (1): 237/424 kBProgress (1): 253/424 kBProgress (1): 270/424 kBProgress (2): 270/424 kB | 7.7/53 kBProgress (2): 270/424 kB | 7.7/53 kBProgress (2): 270/424 kB | 24/53 kB Progress (2): 286/424 kB | 24/53 kBProgress (2): 286/424 kB | 40/53 kBProgress (2): 286/424 kB | 53 kB   Progress (2): 303/424 kB | 53 kBProgress (2): 319/424 kB | 53 kBProgress (2): 335/424 kB | 53 kB                                Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.5.2/plexus-classworlds-2.5.2.jar (53 kB at 180 kB/s)
+Progress (2): 335/424 kB | 7.7/62 kBProgress (2): 335/424 kB | 7.7/62 kB                                    Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.6/plexus-component-annotations-1.6.jar
+Progress (2): 352/424 kB | 7.7/62 kBProgress (2): 352/424 kB | 24/62 kB Progress (2): 368/424 kB | 24/62 kBProgress (2): 368/424 kB | 40/62 kBProgress (2): 385/424 kB | 40/62 kBProgress (2): 385/424 kB | 40/62 kBProgress (2): 385/424 kB | 57/62 kBProgress (2): 401/424 kB | 57/62 kBProgress (2): 401/424 kB | 62 kB                                   Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.21/plexus-interpolation-1.21.jar (62 kB at 209 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.jar
+Progress (1): 417/424 kBProgress (2): 417/424 kB | 3.8/35 kBProgress (2): 417/424 kB | 8.0/35 kBProgress (2): 417/424 kB | 12/35 kB Progress (2): 417/424 kB | 16/35 kBProgress (2): 417/424 kB | 21/35 kBProgress (2): 417/424 kB | 25/35 kBProgress (2): 417/424 kB | 29/35 kBProgress (2): 417/424 kB | 33/35 kBProgress (2): 417/424 kB | 35 kB   Progress (2): 424 kB | 35 kB                                Downloaded from central: https://repo.maven.apache.org/maven2/com/google/inject/guice/4.0/guice-4.0-no_aop.jar (424 kB at 1.4 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar
+Downloaded from central: https://repo.maven.apache.org/maven2/edu/illinois/nondex-common/2.2.1/nondex-common-2.2.1.jar (35 kB at 113 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar
+Progress (1): 4.3 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-component-annotations/1.6/plexus-component-annotations-1.6.jar (4.3 kB at 14 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.0/doxia-sink-api-1.0.jar
+Progress (1): 7.7/29 kBProgress (1): 7.7/29 kBProgress (1): 24/29 kB Progress (1): 29 kB   Progress (2): 29 kB | 3.2/435 kB                                Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.jar (29 kB at 88 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-builder-support/3.3.9/maven-builder-support-3.3.9.jar
+Progress (2): 3.2/435 kB | 7.7/57 kBProgress (2): 3.2/435 kB | 12/57 kB Progress (2): 3.2/435 kB | 29/57 kBProgress (2): 20/435 kB | 29/57 kB Progress (2): 28/435 kB | 29/57 kBProgress (2): 28/435 kB | 45/57 kBProgress (3): 28/435 kB | 45/57 kB | 7.7/10 kBProgress (3): 28/435 kB | 45/57 kB | 10 kB                                              Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.0/doxia-sink-api-1.0.jar (10 kB at 30 kB/s)
+Progress (2): 44/435 kB | 45/57 kBProgress (2): 61/435 kB | 45/57 kBProgress (2): 61/435 kB | 57 kB                                  Downloaded from central: https://repo.maven.apache.org/maven2/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar (57 kB at 169 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/google/guava/guava/18.0/guava-18.0.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-spi/1.0.2.v20150114/aether-spi-1.0.2.v20150114.jar
+Progress (1): 77/435 kBProgress (1): 93/435 kBProgress (1): 110/435 kBProgress (1): 126/435 kBProgress (1): 142/435 kBProgress (1): 159/435 kBProgress (1): 175/435 kBProgress (1): 192/435 kBProgress (1): 208/435 kBProgress (1): 224/435 kBProgress (1): 229/435 kBProgress (1): 246/435 kBProgress (1): 262/435 kBProgress (1): 279/435 kBProgress (1): 295/435 kBProgress (1): 311/435 kBProgress (1): 328/435 kBProgress (1): 344/435 kBProgress (2): 344/435 kB | 0/2.3 MBProgress (2): 344/435 kB | 0/2.3 MBProgress (3): 344/435 kB | 0/2.3 MB | 7.7/31 kBProgress (3): 344/435 kB | 0/2.3 MB | 7.7/31 kBProgress (3): 344/435 kB | 0/2.3 MB | 24/31 kB Progress (3): 344/435 kB | 0/2.3 MB | 31 kB   Progress (4): 344/435 kB | 0/2.3 MB | 31 kB | 7.7/15 kBProgress (4): 344/435 kB | 0/2.3 MB | 31 kB | 15 kB    Progress (4): 344/435 kB | 0/2.3 MB | 31 kB | 15 kB                                                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-builder-support/3.3.9/maven-builder-support-3.3.9.jar (15 kB at 41 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0/cdi-api-1.0.jar
+Progress (3): 360/435 kB | 0/2.3 MB | 31 kBProgress (3): 377/435 kB | 0/2.3 MB | 31 kBProgress (3): 377/435 kB | 0/2.3 MB | 31 kBProgress (3): 377/435 kB | 0.1/2.3 MB | 31 kBProgress (3): 377/435 kB | 0.1/2.3 MB | 31 kBProgress (3): 377/435 kB | 0.1/2.3 MB | 31 kBProgress (3): 393/435 kB | 0.1/2.3 MB | 31 kBProgress (3): 410/435 kB | 0.1/2.3 MB | 31 kB                                             Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-spi/1.0.2.v20150114/aether-spi-1.0.2.v20150114.jar (31 kB at 84 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.inject/0.3.2/org.eclipse.sisu.inject-0.3.2.jar
+Progress (2): 426/435 kB | 0.1/2.3 MBProgress (2): 435 kB | 0.1/2.3 MB                                     Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar (435 kB at 1.2 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
+Progress (1): 0.1/2.3 MBProgress (1): 0.1/2.3 MBProgress (1): 0.1/2.3 MBProgress (1): 0.2/2.3 MBProgress (1): 0.2/2.3 MBProgress (1): 0.2/2.3 MBProgress (1): 0.2/2.3 MBProgress (1): 0.2/2.3 MBProgress (1): 0.2/2.3 MBProgress (1): 0.2/2.3 MBProgress (1): 0.3/2.3 MBProgress (1): 0.3/2.3 MBProgress (1): 0.3/2.3 MBProgress (1): 0.3/2.3 MBProgress (1): 0.3/2.3 MBProgress (1): 0.3/2.3 MBProgress (1): 0.4/2.3 MBProgress (1): 0.4/2.3 MBProgress (2): 0.4/2.3 MB | 7.7/378 kBProgress (2): 0.4/2.3 MB | 16/378 kB Progress (3): 0.4/2.3 MB | 16/378 kB | 7.7/45 kBProgress (3): 0.4/2.3 MB | 16/378 kB | 15/45 kB Progress (3): 0.4/2.3 MB | 16/378 kB | 32/45 kBProgress (3): 0.4/2.3 MB | 24/378 kB | 32/45 kBProgress (3): 0.4/2.3 MB | 24/378 kB | 45 kB                                               Downloaded from central: https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.0/cdi-api-1.0.jar (45 kB at 114 kB/s)
+Progress (2): 0.4/2.3 MB | 33/378 kBProgress (2): 0.4/2.3 MB | 33/378 kB                                    Downloading from central: https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.jar
+Progress (2): 0.4/2.3 MB | 33/378 kBProgress (2): 0.4/2.3 MB | 33/378 kBProgress (3): 0.4/2.3 MB | 33/378 kB | 4.5 kBProgress (3): 0.4/2.3 MB | 49/378 kB | 4.5 kB                                             Downloaded from central: https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.jar (4.5 kB at 11 kB/s)
+Progress (2): 0.4/2.3 MB | 66/378 kBProgress (2): 0.4/2.3 MB | 82/378 kB                                    Downloading from central: https://repo.maven.apache.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar
+Progress (2): 0.4/2.3 MB | 98/378 kBProgress (2): 0.4/2.3 MB | 98/378 kBProgress (3): 0.4/2.3 MB | 98/378 kB | 16/563 kBProgress (3): 0.5/2.3 MB | 98/378 kB | 16/563 kBProgress (3): 0.5/2.3 MB | 98/378 kB | 33/563 kBProgress (3): 0.5/2.3 MB | 115/378 kB | 33/563 kBProgress (3): 0.5/2.3 MB | 115/378 kB | 49/563 kBProgress (3): 0.5/2.3 MB | 131/378 kB | 49/563 kBProgress (3): 0.5/2.3 MB | 131/378 kB | 66/563 kBProgress (3): 0.5/2.3 MB | 147/378 kB | 66/563 kBProgress (3): 0.5/2.3 MB | 147/378 kB | 82/563 kBProgress (3): 0.5/2.3 MB | 147/378 kB | 82/563 kBProgress (3): 0.5/2.3 MB | 147/378 kB | 82/563 kBProgress (3): 0.5/2.3 MB | 147/378 kB | 98/563 kBProgress (3): 0.5/2.3 MB | 147/378 kB | 98/563 kBProgress (3): 0.5/2.3 MB | 164/378 kB | 98/563 kBProgress (3): 0.5/2.3 MB | 164/378 kB | 115/563 kBProgress (3): 0.5/2.3 MB | 168/378 kB | 115/563 kBProgress (3): 0.5/2.3 MB | 184/378 kB | 115/563 kBProgress (3): 0.5/2.3 MB | 184/378 kB | 131/563 kBProgress (3): 0.5/2.3 MB | 184/378 kB | 131/563 kBProgress (3): 0.5/2.3 MB | 184/378 kB | 131/563 kBProgress (3): 0.6/2.3 MB | 184/378 kB | 131/563 kBProgress (3): 0.6/2.3 MB | 184/378 kB | 147/563 kBProgress (3): 0.6/2.3 MB | 184/378 kB | 164/563 kBProgress (3): 0.6/2.3 MB | 197/378 kB | 164/563 kBProgress (3): 0.6/2.3 MB | 197/378 kB | 180/563 kBProgress (3): 0.6/2.3 MB | 197/378 kB | 180/563 kBProgress (3): 0.6/2.3 MB | 197/378 kB | 180/563 kBProgress (3): 0.6/2.3 MB | 213/378 kB | 180/563 kBProgress (4): 0.6/2.3 MB | 213/378 kB | 180/563 kB | 3.2/13 kBProgress (4): 0.6/2.3 MB | 229/378 kB | 180/563 kB | 3.2/13 kBProgress (4): 0.6/2.3 MB | 229/378 kB | 180/563 kB | 13 kB    Progress (5): 0.6/2.3 MB | 229/378 kB | 180/563 kB | 13 kB | 5.8 kB                                                                   Downloaded from central: https://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.jar (13 kB at 32 kB/s)
+Progress (4): 0.6/2.3 MB | 229/378 kB | 197/563 kB | 5.8 kB                                                           Downloaded from central: https://repo.maven.apache.org/maven2/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar (5.8 kB at 14 kB/s)
+Progress (3): 0.6/2.3 MB | 229/378 kB | 213/563 kBProgress (3): 0.6/2.3 MB | 229/378 kB | 229/563 kBProgress (3): 0.6/2.3 MB | 246/378 kB | 229/563 kBProgress (3): 0.6/2.3 MB | 262/378 kB | 229/563 kBProgress (3): 0.6/2.3 MB | 262/378 kB | 246/563 kBProgress (3): 0.6/2.3 MB | 279/378 kB | 246/563 kBProgress (3): 0.6/2.3 MB | 279/378 kB | 262/563 kBProgress (3): 0.6/2.3 MB | 279/378 kB | 262/563 kBProgress (3): 0.6/2.3 MB | 279/378 kB | 262/563 kBProgress (3): 0.6/2.3 MB | 279/378 kB | 262/563 kBProgress (3): 0.6/2.3 MB | 279/378 kB | 279/563 kBProgress (3): 0.7/2.3 MB | 279/378 kB | 279/563 kBProgress (3): 0.7/2.3 MB | 279/378 kB | 295/563 kBProgress (3): 0.7/2.3 MB | 295/378 kB | 295/563 kBProgress (3): 0.7/2.3 MB | 295/378 kB | 311/563 kBProgress (3): 0.7/2.3 MB | 311/378 kB | 311/563 kBProgress (3): 0.7/2.3 MB | 311/378 kB | 328/563 kBProgress (3): 0.7/2.3 MB | 328/378 kB | 328/563 kBProgress (3): 0.7/2.3 MB | 344/378 kB | 328/563 kBProgress (3): 0.7/2.3 MB | 344/378 kB | 344/563 kBProgress (3): 0.7/2.3 MB | 344/378 kB | 344/563 kBProgress (3): 0.7/2.3 MB | 344/378 kB | 360/563 kBProgress (3): 0.7/2.3 MB | 344/378 kB | 360/563 kBProgress (3): 0.7/2.3 MB | 344/378 kB | 377/563 kBProgress (3): 0.7/2.3 MB | 344/378 kB | 377/563 kBProgress (3): 0.7/2.3 MB | 360/378 kB | 377/563 kBProgress (3): 0.7/2.3 MB | 360/378 kB | 377/563 kBProgress (3): 0.7/2.3 MB | 360/378 kB | 393/563 kBProgress (3): 0.7/2.3 MB | 360/378 kB | 393/563 kBProgress (3): 0.7/2.3 MB | 360/378 kB | 410/563 kBProgress (3): 0.7/2.3 MB | 377/378 kB | 410/563 kBProgress (3): 0.7/2.3 MB | 378 kB | 410/563 kB    Progress (3): 0.7/2.3 MB | 378 kB | 426/563 kBProgress (3): 0.7/2.3 MB | 378 kB | 442/563 kBProgress (3): 0.7/2.3 MB | 378 kB | 459/563 kBProgress (3): 0.7/2.3 MB | 378 kB | 475/563 kB                                              Downloaded from central: https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.inject/0.3.2/org.eclipse.sisu.inject-0.3.2.jar (378 kB at 856 kB/s)
+Progress (2): 0.8/2.3 MB | 475/563 kBProgress (2): 0.8/2.3 MB | 475/563 kBProgress (2): 0.8/2.3 MB | 492/563 kBProgress (2): 0.8/2.3 MB | 508/563 kBProgress (2): 0.8/2.3 MB | 508/563 kBProgress (2): 0.8/2.3 MB | 508/563 kBProgress (2): 0.8/2.3 MB | 524/563 kBProgress (2): 0.8/2.3 MB | 524/563 kBProgress (2): 0.8/2.3 MB | 541/563 kBProgress (2): 0.8/2.3 MB | 541/563 kBProgress (2): 0.8/2.3 MB | 557/563 kBProgress (2): 0.8/2.3 MB | 563 kB    Progress (2): 0.9/2.3 MB | 563 kBProgress (2): 0.9/2.3 MB | 563 kB                                 Downloaded from central: https://repo.maven.apache.org/maven2/edu/illinois/nondex-instrumentation/2.2.1/nondex-instrumentation-2.2.1.jar (563 kB at 1.2 MB/s)
+Progress (1): 0.9/2.3 MBProgress (1): 0.9/2.3 MBProgress (1): 0.9/2.3 MBProgress (1): 0.9/2.3 MBProgress (1): 1.0/2.3 MBProgress (1): 1.0/2.3 MBProgress (1): 1.0/2.3 MBProgress (1): 1.0/2.3 MBProgress (1): 1.0/2.3 MBProgress (1): 1.0/2.3 MBProgress (1): 1.0/2.3 MBProgress (1): 1.1/2.3 MBProgress (1): 1.1/2.3 MBProgress (1): 1.1/2.3 MBProgress (1): 1.1/2.3 MBProgress (1): 1.1/2.3 MBProgress (1): 1.1/2.3 MBProgress (1): 1.2/2.3 MBProgress (1): 1.2/2.3 MBProgress (1): 1.2/2.3 MBProgress (1): 1.2/2.3 MBProgress (1): 1.2/2.3 MBProgress (1): 1.2/2.3 MBProgress (1): 1.3/2.3 MBProgress (1): 1.3/2.3 MBProgress (1): 1.3/2.3 MBProgress (1): 1.3/2.3 MBProgress (1): 1.3/2.3 MBProgress (1): 1.3/2.3 MBProgress (1): 1.4/2.3 MBProgress (1): 1.4/2.3 MBProgress (1): 1.4/2.3 MBProgress (1): 1.4/2.3 MBProgress (1): 1.4/2.3 MBProgress (1): 1.4/2.3 MBProgress (1): 1.5/2.3 MBProgress (1): 1.5/2.3 MBProgress (1): 1.5/2.3 MBProgress (1): 1.5/2.3 MBProgress (1): 1.5/2.3 MBProgress (1): 1.5/2.3 MBProgress (1): 1.6/2.3 MBProgress (1): 1.6/2.3 MBProgress (1): 1.6/2.3 MBProgress (1): 1.6/2.3 MBProgress (1): 1.6/2.3 MBProgress (1): 1.6/2.3 MBProgress (1): 1.7/2.3 MBProgress (1): 1.7/2.3 MBProgress (1): 1.7/2.3 MBProgress (1): 1.7/2.3 MBProgress (1): 1.7/2.3 MBProgress (1): 1.7/2.3 MBProgress (1): 1.8/2.3 MBProgress (1): 1.8/2.3 MBProgress (1): 1.8/2.3 MBProgress (1): 1.8/2.3 MBProgress (1): 1.8/2.3 MBProgress (1): 1.8/2.3 MBProgress (1): 1.9/2.3 MBProgress (1): 1.9/2.3 MBProgress (1): 1.9/2.3 MBProgress (1): 1.9/2.3 MBProgress (1): 1.9/2.3 MBProgress (1): 1.9/2.3 MBProgress (1): 1.9/2.3 MBProgress (1): 2.0/2.3 MBProgress (1): 2.0/2.3 MBProgress (1): 2.0/2.3 MBProgress (1): 2.0/2.3 MBProgress (1): 2.0/2.3 MBProgress (1): 2.0/2.3 MBProgress (1): 2.1/2.3 MBProgress (1): 2.1/2.3 MBProgress (1): 2.1/2.3 MBProgress (1): 2.1/2.3 MBProgress (1): 2.1/2.3 MBProgress (1): 2.1/2.3 MBProgress (1): 2.2/2.3 MBProgress (1): 2.2/2.3 MBProgress (1): 2.2/2.3 MBProgress (1): 2.2/2.3 MBProgress (1): 2.2/2.3 MBProgress (1): 2.2/2.3 MBProgress (1): 2.2/2.3 MBProgress (1): 2.3 MB                        Downloaded from central: https://repo.maven.apache.org/maven2/com/google/guava/guava/18.0/guava-18.0.jar (2.3 MB at 4.4 MB/s)
+INFO: The original argline is: 
+INFO: Creating new argline for Surefire
+CONFIG: nondexFilter=.*
+nondexMode=FULL
+nondexSeed=933178
+nondexStart=0
+nondexEnd=9223372036854775807
+nondexPrintstack=false
+nondexDir=/home/codespace/Mapper/core/.nondex
+nondexJarDir=.nondex
+nondexExecid=clean_OJU0AodcPGE5OSR1ncpuGMsq4ixgY6BXLFkqFgMFcDc=
+nondexLogging=CONFIG
+test=
+[WARNING]  Parameter 'disableXmlReport' (user property 'disableXmlReport') is deprecated: instead use disable within statelessTestsetReporter since of 3.0.0-M6
+[INFO] Using auto detected provider org.apache.maven.surefire.junitplatform.JUnitPlatformProvider
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running tk.mybatis.mapper.mapperhelper.ComplexEntityTest
+log4j:WARN No appenders could be found for logger (org.apache.ibatis.logging.LogFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+init
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.133 s -- in tk.mybatis.mapper.mapperhelper.ComplexEntityTest
+[INFO] 
+[INFO] Results:
+[INFO] 
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+[INFO] 
+INFO: Adding excluded groups to newly created one
+INFO: Creating new argline for Surefire
+CONFIG: nondexFilter=.*
+nondexMode=FULL
+nondexSeed=933178
+nondexStart=0
+nondexEnd=9223372036854775807
+nondexPrintstack=false
+nondexDir=/home/codespace/Mapper/core/.nondex
+nondexJarDir=/home/codespace/Mapper/core/.nondex
+nondexExecid=MMhuPMAqwmhsBt+UkXVqsnaVizUp3rQcbccoCpi+08=
+nondexLogging=CONFIG
+test=
+[WARNING]  Parameter 'disableXmlReport' (user property 'disableXmlReport') is deprecated: instead use disable within statelessTestsetReporter since of 3.0.0-M6
+[INFO] Using auto detected provider org.apache.maven.surefire.junitplatform.JUnitPlatformProvider
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running tk.mybatis.mapper.mapperhelper.ComplexEntityTest
+log4j:WARN No appenders could be found for logger (org.apache.ibatis.logging.LogFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[ERROR] Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.148 s <<< FAILURE! -- in tk.mybatis.mapper.mapperhelper.ComplexEntityTest
+[ERROR] tk.mybatis.mapper.mapperhelper.ComplexEntityTest.test -- Time elapsed: 0.132 s <<< FAILURE!
+org.junit.ComparisonFailure: expected:<SELECT [id,user_name,address,state  FROM user <where><if test="id != null"> AND id = #{id}</if><if test="userName != null"> AND user_name = #{userName}</if><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler}</if><if test="state != null"> AND state = #{stat]e}</if></where>> but was:<SELECT [address,id,state,user_name  FROM user <where><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler}</if><if test="id != null"> AND id = #{id}</if><if test="state != null"> AND state = #{state}</if><if test="userName != null"> AND user_name = #{userNam]e}</if></where>>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at tk.mybatis.mapper.mapperhelper.ComplexEntityTest.test(ComplexEntityTest.java:155)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+
+[INFO] 
+[INFO] Results:
+[INFO] 
+[ERROR] Failures: 
+[ERROR]   ComplexEntityTest.test:155 expected:<SELECT [id,user_name,address,state  FROM user <where><if test="id != null"> AND id = #{id}</if><if test="userName != null"> AND user_name = #{userName}</if><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler}</if><if test="state != null"> AND state = #{stat]e}</if></where>> but was:<SELECT [address,id,state,user_name  FROM user <where><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler}</if><if test="id != null"> AND id = #{id}</if><if test="state != null"> AND state = #{state}</if><if test="userName != null"> AND user_name = #{userNam]e}</if></where>>
+[INFO] 
+[ERROR] Tests run: 1, Failures: 1, Errors: 0, Skipped: 0
+[INFO] 
+INFO: Surefire failed when running tests for MMhuPMAqwmhsBt+UkXVqsnaVizUp3rQcbccoCpi+08=
+INFO: Adding excluded groups to newly created one
+INFO: Creating new argline for Surefire
+CONFIG: nondexFilter=.*
+nondexMode=FULL
+nondexSeed=974622
+nondexStart=0
+nondexEnd=9223372036854775807
+nondexPrintstack=false
+nondexDir=/home/codespace/Mapper/core/.nondex
+nondexJarDir=/home/codespace/Mapper/core/.nondex
+nondexExecid=6xCVCbtUt6Usg9M9hoNqSBGUnSCsNfxxt3sO7q8T6z8=
+nondexLogging=CONFIG
+test=
+[WARNING]  Parameter 'disableXmlReport' (user property 'disableXmlReport') is deprecated: instead use disable within statelessTestsetReporter since of 3.0.0-M6
+[INFO] Using auto detected provider org.apache.maven.surefire.junitplatform.JUnitPlatformProvider
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running tk.mybatis.mapper.mapperhelper.ComplexEntityTest
+log4j:WARN No appenders could be found for logger (org.apache.ibatis.logging.LogFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[ERROR] Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.202 s <<< FAILURE! -- in tk.mybatis.mapper.mapperhelper.ComplexEntityTest
+[ERROR] tk.mybatis.mapper.mapperhelper.ComplexEntityTest.test -- Time elapsed: 0.185 s <<< FAILURE!
+org.junit.ComparisonFailure: expected:<SELECT id,[user_name,address,state  FROM user <where><if test="id != null"> AND id = #{id}</if><if test="userName != null"> AND user_name = #{userName}</if><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler]}</if><if test="stat...> but was:<SELECT id,[address,user_name,state  FROM user <where><if test="id != null"> AND id = #{id}</if><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler}</if><if test="userName != null"> AND user_name = #{userName]}</if><if test="stat...>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at tk.mybatis.mapper.mapperhelper.ComplexEntityTest.test(ComplexEntityTest.java:155)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+
+[INFO] 
+[INFO] Results:
+[INFO] 
+[ERROR] Failures: 
+[ERROR]   ComplexEntityTest.test:155 expected:<SELECT id,[user_name,address,state  FROM user <where><if test="id != null"> AND id = #{id}</if><if test="userName != null"> AND user_name = #{userName}</if><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler]}</if><if test="stat...> but was:<SELECT id,[address,user_name,state  FROM user <where><if test="id != null"> AND id = #{id}</if><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler}</if><if test="userName != null"> AND user_name = #{userName]}</if><if test="stat...>
+[INFO] 
+[ERROR] Tests run: 1, Failures: 1, Errors: 0, Skipped: 0
+[INFO] 
+INFO: Surefire failed when running tests for 6xCVCbtUt6Usg9M9hoNqSBGUnSCsNfxxt3sO7q8T6z8=
+INFO: Adding excluded groups to newly created one
+INFO: Creating new argline for Surefire
+CONFIG: nondexFilter=.*
+nondexMode=FULL
+nondexSeed=1016066
+nondexStart=0
+nondexEnd=9223372036854775807
+nondexPrintstack=false
+nondexDir=/home/codespace/Mapper/core/.nondex
+nondexJarDir=/home/codespace/Mapper/core/.nondex
+nondexExecid=ppdi4i3KOHS6waZjiKZPWTCf+csXKHWWgBCIcEuP6U=
+nondexLogging=CONFIG
+test=
+[WARNING]  Parameter 'disableXmlReport' (user property 'disableXmlReport') is deprecated: instead use disable within statelessTestsetReporter since of 3.0.0-M6
+[INFO] Using auto detected provider org.apache.maven.surefire.junitplatform.JUnitPlatformProvider
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running tk.mybatis.mapper.mapperhelper.ComplexEntityTest
+log4j:WARN No appenders could be found for logger (org.apache.ibatis.logging.LogFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[ERROR] Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.152 s <<< FAILURE! -- in tk.mybatis.mapper.mapperhelper.ComplexEntityTest
+[ERROR] tk.mybatis.mapper.mapperhelper.ComplexEntityTest.test -- Time elapsed: 0.139 s <<< FAILURE!
+org.junit.ComparisonFailure: expected:<SELECT [id,user_name,address,state  FROM user <where><if test="id != null"> AND id = #{id}</if><if test="userName != null"> AND user_name = #{userName}</if><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler}</if><if test="state != null"> AND state = #{stat]e}</if></where>> but was:<SELECT [address,id,state,user_name  FROM user <where><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler}</if><if test="id != null"> AND id = #{id}</if><if test="state != null"> AND state = #{state}</if><if test="userName != null"> AND user_name = #{userNam]e}</if></where>>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at tk.mybatis.mapper.mapperhelper.ComplexEntityTest.test(ComplexEntityTest.java:155)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+
+[INFO] 
+[INFO] Results:
+[INFO] 
+[ERROR] Failures: 
+[ERROR]   ComplexEntityTest.test:155 expected:<SELECT [id,user_name,address,state  FROM user <where><if test="id != null"> AND id = #{id}</if><if test="userName != null"> AND user_name = #{userName}</if><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler}</if><if test="state != null"> AND state = #{stat]e}</if></where>> but was:<SELECT [address,id,state,user_name  FROM user <where><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler}</if><if test="id != null"> AND id = #{id}</if><if test="state != null"> AND state = #{state}</if><if test="userName != null"> AND user_name = #{userNam]e}</if></where>>
+[INFO] 
+[ERROR] Tests run: 1, Failures: 1, Errors: 0, Skipped: 0
+[INFO] 
+INFO: Surefire failed when running tests for ppdi4i3KOHS6waZjiKZPWTCf+csXKHWWgBCIcEuP6U=
+INFO: Adding excluded groups to newly created one
+INFO: Creating new argline for Surefire
+CONFIG: nondexFilter=.*
+nondexMode=FULL
+nondexSeed=1057510
+nondexStart=0
+nondexEnd=9223372036854775807
+nondexPrintstack=false
+nondexDir=/home/codespace/Mapper/core/.nondex
+nondexJarDir=/home/codespace/Mapper/core/.nondex
+nondexExecid=XgLOhJTPYM0Ypm92LA6WJL9pR37WtcZlCDgdSzfWYs=
+nondexLogging=CONFIG
+test=
+[WARNING]  Parameter 'disableXmlReport' (user property 'disableXmlReport') is deprecated: instead use disable within statelessTestsetReporter since of 3.0.0-M6
+[INFO] Using auto detected provider org.apache.maven.surefire.junitplatform.JUnitPlatformProvider
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running tk.mybatis.mapper.mapperhelper.ComplexEntityTest
+log4j:WARN No appenders could be found for logger (org.apache.ibatis.logging.LogFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[ERROR] Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.138 s <<< FAILURE! -- in tk.mybatis.mapper.mapperhelper.ComplexEntityTest
+[ERROR] tk.mybatis.mapper.mapperhelper.ComplexEntityTest.test -- Time elapsed: 0.125 s <<< FAILURE!
+org.junit.ComparisonFailure: expected:<SELECT [id,user_name,address,state  FROM user <where><if test="id != null"> AND id = #{id}</if><if test="userName != null"> AND user_name = #{userName]}</if><if test="addr...> but was:<SELECT [user_name,id,address,state  FROM user <where><if test="userName != null"> AND user_name = #{userName}</if><if test="id != null"> AND id = #{id]}</if><if test="addr...>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at tk.mybatis.mapper.mapperhelper.ComplexEntityTest.test(ComplexEntityTest.java:155)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+
+[INFO] 
+[INFO] Results:
+[INFO] 
+[ERROR] Failures: 
+[ERROR]   ComplexEntityTest.test:155 expected:<SELECT [id,user_name,address,state  FROM user <where><if test="id != null"> AND id = #{id}</if><if test="userName != null"> AND user_name = #{userName]}</if><if test="addr...> but was:<SELECT [user_name,id,address,state  FROM user <where><if test="userName != null"> AND user_name = #{userName}</if><if test="id != null"> AND id = #{id]}</if><if test="addr...>
+[INFO] 
+[ERROR] Tests run: 1, Failures: 1, Errors: 0, Skipped: 0
+[INFO] 
+INFO: Surefire failed when running tests for XgLOhJTPYM0Ypm92LA6WJL9pR37WtcZlCDgdSzfWYs=
+INFO: Adding excluded groups to newly created one
+INFO: Creating new argline for Surefire
+CONFIG: nondexFilter=.*
+nondexMode=FULL
+nondexSeed=1098954
+nondexStart=0
+nondexEnd=9223372036854775807
+nondexPrintstack=false
+nondexDir=/home/codespace/Mapper/core/.nondex
+nondexJarDir=/home/codespace/Mapper/core/.nondex
+nondexExecid=qY2T8N6ARvUdnV5GVoNvDNyk7Ptq45UbTGL4bln0oI=
+nondexLogging=CONFIG
+test=
+[WARNING]  Parameter 'disableXmlReport' (user property 'disableXmlReport') is deprecated: instead use disable within statelessTestsetReporter since of 3.0.0-M6
+[INFO] Using auto detected provider org.apache.maven.surefire.junitplatform.JUnitPlatformProvider
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running tk.mybatis.mapper.mapperhelper.ComplexEntityTest
+log4j:WARN No appenders could be found for logger (org.apache.ibatis.logging.LogFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[ERROR] Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.237 s <<< FAILURE! -- in tk.mybatis.mapper.mapperhelper.ComplexEntityTest
+[ERROR] tk.mybatis.mapper.mapperhelper.ComplexEntityTest.test -- Time elapsed: 0.208 s <<< FAILURE!
+org.junit.ComparisonFailure: expected:<SELECT [id,user_name,address,state  FROM user <where><if test="id != null"> AND id = #{id}</if><if test="userName != null"> AND user_name = #{userName}</if><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler}</if><if test="state != null"> AND state = #{state]}</if></where>> but was:<SELECT [state,id,user_name,address  FROM user <where><if test="state != null"> AND state = #{state}</if><if test="id != null"> AND id = #{id}</if><if test="userName != null"> AND user_name = #{userName}</if><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler]}</if></where>>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at tk.mybatis.mapper.mapperhelper.ComplexEntityTest.test(ComplexEntityTest.java:155)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+
+[INFO] 
+[INFO] Results:
+[INFO] 
+[ERROR] Failures: 
+[ERROR]   ComplexEntityTest.test:155 expected:<SELECT [id,user_name,address,state  FROM user <where><if test="id != null"> AND id = #{id}</if><if test="userName != null"> AND user_name = #{userName}</if><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler}</if><if test="state != null"> AND state = #{state]}</if></where>> but was:<SELECT [state,id,user_name,address  FROM user <where><if test="state != null"> AND state = #{state}</if><if test="id != null"> AND id = #{id}</if><if test="userName != null"> AND user_name = #{userName}</if><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler]}</if></where>>
+[INFO] 
+[ERROR] Tests run: 1, Failures: 1, Errors: 0, Skipped: 0
+[INFO] 
+INFO: Surefire failed when running tests for qY2T8N6ARvUdnV5GVoNvDNyk7Ptq45UbTGL4bln0oI=
+INFO: Adding excluded groups to newly created one
+INFO: Creating new argline for Surefire
+CONFIG: nondexFilter=.*
+nondexMode=FULL
+nondexSeed=1140398
+nondexStart=0
+nondexEnd=9223372036854775807
+nondexPrintstack=false
+nondexDir=/home/codespace/Mapper/core/.nondex
+nondexJarDir=/home/codespace/Mapper/core/.nondex
+nondexExecid=fKyLgpIwI0G43KjYrKJUmrtyqnm6mH3vR65og+iPBE4=
+nondexLogging=CONFIG
+test=
+[WARNING]  Parameter 'disableXmlReport' (user property 'disableXmlReport') is deprecated: instead use disable within statelessTestsetReporter since of 3.0.0-M6
+[INFO] Using auto detected provider org.apache.maven.surefire.junitplatform.JUnitPlatformProvider
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running tk.mybatis.mapper.mapperhelper.ComplexEntityTest
+log4j:WARN No appenders could be found for logger (org.apache.ibatis.logging.LogFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[ERROR] Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.137 s <<< FAILURE! -- in tk.mybatis.mapper.mapperhelper.ComplexEntityTest
+[ERROR] tk.mybatis.mapper.mapperhelper.ComplexEntityTest.test -- Time elapsed: 0.122 s <<< FAILURE!
+org.junit.ComparisonFailure: expected:<SELECT id,user_name,[address,state  FROM user <where><if test="id != null"> AND id = #{id}</if><if test="userName != null"> AND user_name = #{userName}</if><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler}</if><if test="state != null"> AND state = #{state]}</if></where>> but was:<SELECT id,user_name,[state,address  FROM user <where><if test="id != null"> AND id = #{id}</if><if test="userName != null"> AND user_name = #{userName}</if><if test="state != null"> AND state = #{state}</if><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler]}</if></where>>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at tk.mybatis.mapper.mapperhelper.ComplexEntityTest.test(ComplexEntityTest.java:155)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+
+[INFO] 
+[INFO] Results:
+[INFO] 
+[ERROR] Failures: 
+[ERROR]   ComplexEntityTest.test:155 expected:<SELECT id,user_name,[address,state  FROM user <where><if test="id != null"> AND id = #{id}</if><if test="userName != null"> AND user_name = #{userName}</if><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler}</if><if test="state != null"> AND state = #{state]}</if></where>> but was:<SELECT id,user_name,[state,address  FROM user <where><if test="id != null"> AND id = #{id}</if><if test="userName != null"> AND user_name = #{userName}</if><if test="state != null"> AND state = #{state}</if><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler]}</if></where>>
+[INFO] 
+[ERROR] Tests run: 1, Failures: 1, Errors: 0, Skipped: 0
+[INFO] 
+INFO: Surefire failed when running tests for fKyLgpIwI0G43KjYrKJUmrtyqnm6mH3vR65og+iPBE4=
+INFO: Adding excluded groups to newly created one
+INFO: Creating new argline for Surefire
+CONFIG: nondexFilter=.*
+nondexMode=FULL
+nondexSeed=1181842
+nondexStart=0
+nondexEnd=9223372036854775807
+nondexPrintstack=false
+nondexDir=/home/codespace/Mapper/core/.nondex
+nondexJarDir=/home/codespace/Mapper/core/.nondex
+nondexExecid=XRJ4pqmpjr2UhvbCETpMUDKIMrm3m9z+tkVEYQQpgQ=
+nondexLogging=CONFIG
+test=
+[WARNING]  Parameter 'disableXmlReport' (user property 'disableXmlReport') is deprecated: instead use disable within statelessTestsetReporter since of 3.0.0-M6
+[INFO] Using auto detected provider org.apache.maven.surefire.junitplatform.JUnitPlatformProvider
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running tk.mybatis.mapper.mapperhelper.ComplexEntityTest
+log4j:WARN No appenders could be found for logger (org.apache.ibatis.logging.LogFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[ERROR] Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.132 s <<< FAILURE! -- in tk.mybatis.mapper.mapperhelper.ComplexEntityTest
+[ERROR] tk.mybatis.mapper.mapperhelper.ComplexEntityTest.test -- Time elapsed: 0.119 s <<< FAILURE!
+org.junit.ComparisonFailure: expected:<SELECT [id,user_name,address,state  FROM user <where><if test="id != null"> AND id = #{id}</if><if test="userName != null"> AND user_name = #{userName}</if><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler}</if><if test="state != null"> AND state = #{state]}</if></where>> but was:<SELECT [user_name,id,state,address  FROM user <where><if test="userName != null"> AND user_name = #{userName}</if><if test="id != null"> AND id = #{id}</if><if test="state != null"> AND state = #{state}</if><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler]}</if></where>>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at tk.mybatis.mapper.mapperhelper.ComplexEntityTest.test(ComplexEntityTest.java:155)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+
+[INFO] 
+[INFO] Results:
+[INFO] 
+[ERROR] Failures: 
+[ERROR]   ComplexEntityTest.test:155 expected:<SELECT [id,user_name,address,state  FROM user <where><if test="id != null"> AND id = #{id}</if><if test="userName != null"> AND user_name = #{userName}</if><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler}</if><if test="state != null"> AND state = #{state]}</if></where>> but was:<SELECT [user_name,id,state,address  FROM user <where><if test="userName != null"> AND user_name = #{userName}</if><if test="id != null"> AND id = #{id}</if><if test="state != null"> AND state = #{state}</if><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler]}</if></where>>
+[INFO] 
+[ERROR] Tests run: 1, Failures: 1, Errors: 0, Skipped: 0
+[INFO] 
+INFO: Surefire failed when running tests for XRJ4pqmpjr2UhvbCETpMUDKIMrm3m9z+tkVEYQQpgQ=
+INFO: Adding excluded groups to newly created one
+INFO: Creating new argline for Surefire
+CONFIG: nondexFilter=.*
+nondexMode=FULL
+nondexSeed=1223286
+nondexStart=0
+nondexEnd=9223372036854775807
+nondexPrintstack=false
+nondexDir=/home/codespace/Mapper/core/.nondex
+nondexJarDir=/home/codespace/Mapper/core/.nondex
+nondexExecid=HHHxETwxexoKeQIVDLMA+OyhvSnOz9QOJDAljcVOGs=
+nondexLogging=CONFIG
+test=
+[WARNING]  Parameter 'disableXmlReport' (user property 'disableXmlReport') is deprecated: instead use disable within statelessTestsetReporter since of 3.0.0-M6
+[INFO] Using auto detected provider org.apache.maven.surefire.junitplatform.JUnitPlatformProvider
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running tk.mybatis.mapper.mapperhelper.ComplexEntityTest
+log4j:WARN No appenders could be found for logger (org.apache.ibatis.logging.LogFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[ERROR] Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.137 s <<< FAILURE! -- in tk.mybatis.mapper.mapperhelper.ComplexEntityTest
+[ERROR] tk.mybatis.mapper.mapperhelper.ComplexEntityTest.test -- Time elapsed: 0.123 s <<< FAILURE!
+org.junit.ComparisonFailure: expected:<SELECT id,user_name,[address,state  FROM user <where><if test="id != null"> AND id = #{id}</if><if test="userName != null"> AND user_name = #{userName}</if><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler}</if><if test="state != null"> AND state = #{state]}</if></where>> but was:<SELECT id,user_name,[state,address  FROM user <where><if test="id != null"> AND id = #{id}</if><if test="userName != null"> AND user_name = #{userName}</if><if test="state != null"> AND state = #{state}</if><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler]}</if></where>>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at tk.mybatis.mapper.mapperhelper.ComplexEntityTest.test(ComplexEntityTest.java:155)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+
+[INFO] 
+[INFO] Results:
+[INFO] 
+[ERROR] Failures: 
+[ERROR]   ComplexEntityTest.test:155 expected:<SELECT id,user_name,[address,state  FROM user <where><if test="id != null"> AND id = #{id}</if><if test="userName != null"> AND user_name = #{userName}</if><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler}</if><if test="state != null"> AND state = #{state]}</if></where>> but was:<SELECT id,user_name,[state,address  FROM user <where><if test="id != null"> AND id = #{id}</if><if test="userName != null"> AND user_name = #{userName}</if><if test="state != null"> AND state = #{state}</if><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler]}</if></where>>
+[INFO] 
+[ERROR] Tests run: 1, Failures: 1, Errors: 0, Skipped: 0
+[INFO] 
+INFO: Surefire failed when running tests for HHHxETwxexoKeQIVDLMA+OyhvSnOz9QOJDAljcVOGs=
+INFO: Adding excluded groups to newly created one
+INFO: Creating new argline for Surefire
+CONFIG: nondexFilter=.*
+nondexMode=FULL
+nondexSeed=1264730
+nondexStart=0
+nondexEnd=9223372036854775807
+nondexPrintstack=false
+nondexDir=/home/codespace/Mapper/core/.nondex
+nondexJarDir=/home/codespace/Mapper/core/.nondex
+nondexExecid=dHj9XXrOONU69rZKJV1IkaoLrPzF9tkciB7OhfzqxM=
+nondexLogging=CONFIG
+test=
+[WARNING]  Parameter 'disableXmlReport' (user property 'disableXmlReport') is deprecated: instead use disable within statelessTestsetReporter since of 3.0.0-M6
+[INFO] Using auto detected provider org.apache.maven.surefire.junitplatform.JUnitPlatformProvider
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running tk.mybatis.mapper.mapperhelper.ComplexEntityTest
+log4j:WARN No appenders could be found for logger (org.apache.ibatis.logging.LogFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[ERROR] Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.151 s <<< FAILURE! -- in tk.mybatis.mapper.mapperhelper.ComplexEntityTest
+[ERROR] tk.mybatis.mapper.mapperhelper.ComplexEntityTest.test -- Time elapsed: 0.129 s <<< FAILURE!
+org.junit.ComparisonFailure: expected:<SELECT id,[user_name,address,state  FROM user <where><if test="id != null"> AND id = #{id}</if><if test="userName != null"> AND user_name = #{userName}</if><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler]}</if><if test="stat...> but was:<SELECT id,[address,user_name,state  FROM user <where><if test="id != null"> AND id = #{id}</if><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler}</if><if test="userName != null"> AND user_name = #{userName]}</if><if test="stat...>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at tk.mybatis.mapper.mapperhelper.ComplexEntityTest.test(ComplexEntityTest.java:155)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+
+[INFO] 
+[INFO] Results:
+[INFO] 
+[ERROR] Failures: 
+[ERROR]   ComplexEntityTest.test:155 expected:<SELECT id,[user_name,address,state  FROM user <where><if test="id != null"> AND id = #{id}</if><if test="userName != null"> AND user_name = #{userName}</if><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler]}</if><if test="stat...> but was:<SELECT id,[address,user_name,state  FROM user <where><if test="id != null"> AND id = #{id}</if><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler}</if><if test="userName != null"> AND user_name = #{userName]}</if><if test="stat...>
+[INFO] 
+[ERROR] Tests run: 1, Failures: 1, Errors: 0, Skipped: 0
+[INFO] 
+INFO: Surefire failed when running tests for dHj9XXrOONU69rZKJV1IkaoLrPzF9tkciB7OhfzqxM=
+INFO: Adding excluded groups to newly created one
+INFO: Creating new argline for Surefire
+CONFIG: nondexFilter=.*
+nondexMode=FULL
+nondexSeed=1306174
+nondexStart=0
+nondexEnd=9223372036854775807
+nondexPrintstack=false
+nondexDir=/home/codespace/Mapper/core/.nondex
+nondexJarDir=/home/codespace/Mapper/core/.nondex
+nondexExecid=4uvZkhc0BlpaZCRkvqt2JUgKNHUMzeNxVFROoLXqmqw=
+nondexLogging=CONFIG
+test=
+[WARNING]  Parameter 'disableXmlReport' (user property 'disableXmlReport') is deprecated: instead use disable within statelessTestsetReporter since of 3.0.0-M6
+[INFO] Using auto detected provider org.apache.maven.surefire.junitplatform.JUnitPlatformProvider
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running tk.mybatis.mapper.mapperhelper.ComplexEntityTest
+log4j:WARN No appenders could be found for logger (org.apache.ibatis.logging.LogFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[ERROR] Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.144 s <<< FAILURE! -- in tk.mybatis.mapper.mapperhelper.ComplexEntityTest
+[ERROR] tk.mybatis.mapper.mapperhelper.ComplexEntityTest.test -- Time elapsed: 0.129 s <<< FAILURE!
+org.junit.ComparisonFailure: expected:<SELECT [id,user_name,address,state  FROM user <where><if test="id != null"> AND id = #{id}</if><if test="userName != null"> AND user_name = #{userName}</if><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler}</if><if test="state != null"> AND state = #{stat]e}</if></where>> but was:<SELECT [address,state,id,user_name  FROM user <where><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler}</if><if test="state != null"> AND state = #{state}</if><if test="id != null"> AND id = #{id}</if><if test="userName != null"> AND user_name = #{userNam]e}</if></where>>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at tk.mybatis.mapper.mapperhelper.ComplexEntityTest.test(ComplexEntityTest.java:155)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+
+[INFO] 
+[INFO] Results:
+[INFO] 
+[ERROR] Failures: 
+[ERROR]   ComplexEntityTest.test:155 expected:<SELECT [id,user_name,address,state  FROM user <where><if test="id != null"> AND id = #{id}</if><if test="userName != null"> AND user_name = #{userName}</if><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler}</if><if test="state != null"> AND state = #{stat]e}</if></where>> but was:<SELECT [address,state,id,user_name  FROM user <where><if test="address != null"> AND address = #{address, typeHandler=tk.mybatis.mapper.mapperhelper.ComplexEntityTest.AddressHandler}</if><if test="state != null"> AND state = #{state}</if><if test="id != null"> AND id = #{id}</if><if test="userName != null"> AND user_name = #{userNam]e}</if></where>>
+[INFO] 
+[ERROR] Tests run: 1, Failures: 1, Errors: 0, Skipped: 0
+[INFO] 
+INFO: Surefire failed when running tests for 4uvZkhc0BlpaZCRkvqt2JUgKNHUMzeNxVFROoLXqmqw=
+[INFO] NonDex SUMMARY:
+[INFO] *********
+[INFO] mvn nondex:nondex  -DnondexFilter='.*' -DnondexMode=FULL -DnondexSeed=933178 -DnondexStart=0 -DnondexEnd=9223372036854775807 -DnondexPrintstack=false -DnondexDir="/home/codespace/Mapper/core/.nondex" -DnondexJarDir="/home/codespace/Mapper/core/.nondex" -DnondexExecid=MMhuPMAqwmhsBt+UkXVqsnaVizUp3rQcbccoCpi+08= -DnondexLogging=CONFIG
+[WARNING] tk.mybatis.mapper.mapperhelper.ComplexEntityTest#test
+[INFO] *********
+[INFO] *********
+[INFO] mvn nondex:nondex  -DnondexFilter='.*' -DnondexMode=FULL -DnondexSeed=974622 -DnondexStart=0 -DnondexEnd=9223372036854775807 -DnondexPrintstack=false -DnondexDir="/home/codespace/Mapper/core/.nondex" -DnondexJarDir="/home/codespace/Mapper/core/.nondex" -DnondexExecid=6xCVCbtUt6Usg9M9hoNqSBGUnSCsNfxxt3sO7q8T6z8= -DnondexLogging=CONFIG
+[WARNING] tk.mybatis.mapper.mapperhelper.ComplexEntityTest#test
+[INFO] *********
+[INFO] *********
+[INFO] mvn nondex:nondex  -DnondexFilter='.*' -DnondexMode=FULL -DnondexSeed=1016066 -DnondexStart=0 -DnondexEnd=9223372036854775807 -DnondexPrintstack=false -DnondexDir="/home/codespace/Mapper/core/.nondex" -DnondexJarDir="/home/codespace/Mapper/core/.nondex" -DnondexExecid=ppdi4i3KOHS6waZjiKZPWTCf+csXKHWWgBCIcEuP6U= -DnondexLogging=CONFIG
+[WARNING] tk.mybatis.mapper.mapperhelper.ComplexEntityTest#test
+[INFO] *********
+[INFO] *********
+[INFO] mvn nondex:nondex  -DnondexFilter='.*' -DnondexMode=FULL -DnondexSeed=1057510 -DnondexStart=0 -DnondexEnd=9223372036854775807 -DnondexPrintstack=false -DnondexDir="/home/codespace/Mapper/core/.nondex" -DnondexJarDir="/home/codespace/Mapper/core/.nondex" -DnondexExecid=XgLOhJTPYM0Ypm92LA6WJL9pR37WtcZlCDgdSzfWYs= -DnondexLogging=CONFIG
+[WARNING] tk.mybatis.mapper.mapperhelper.ComplexEntityTest#test
+[INFO] *********
+[INFO] *********
+[INFO] mvn nondex:nondex  -DnondexFilter='.*' -DnondexMode=FULL -DnondexSeed=1098954 -DnondexStart=0 -DnondexEnd=9223372036854775807 -DnondexPrintstack=false -DnondexDir="/home/codespace/Mapper/core/.nondex" -DnondexJarDir="/home/codespace/Mapper/core/.nondex" -DnondexExecid=qY2T8N6ARvUdnV5GVoNvDNyk7Ptq45UbTGL4bln0oI= -DnondexLogging=CONFIG
+[WARNING] tk.mybatis.mapper.mapperhelper.ComplexEntityTest#test
+[INFO] *********
+[INFO] *********
+[INFO] mvn nondex:nondex  -DnondexFilter='.*' -DnondexMode=FULL -DnondexSeed=1140398 -DnondexStart=0 -DnondexEnd=9223372036854775807 -DnondexPrintstack=false -DnondexDir="/home/codespace/Mapper/core/.nondex" -DnondexJarDir="/home/codespace/Mapper/core/.nondex" -DnondexExecid=fKyLgpIwI0G43KjYrKJUmrtyqnm6mH3vR65og+iPBE4= -DnondexLogging=CONFIG
+[WARNING] tk.mybatis.mapper.mapperhelper.ComplexEntityTest#test
+[INFO] *********
+[INFO] *********
+[INFO] mvn nondex:nondex  -DnondexFilter='.*' -DnondexMode=FULL -DnondexSeed=1181842 -DnondexStart=0 -DnondexEnd=9223372036854775807 -DnondexPrintstack=false -DnondexDir="/home/codespace/Mapper/core/.nondex" -DnondexJarDir="/home/codespace/Mapper/core/.nondex" -DnondexExecid=XRJ4pqmpjr2UhvbCETpMUDKIMrm3m9z+tkVEYQQpgQ= -DnondexLogging=CONFIG
+[WARNING] tk.mybatis.mapper.mapperhelper.ComplexEntityTest#test
+[INFO] *********
+[INFO] *********
+[INFO] mvn nondex:nondex  -DnondexFilter='.*' -DnondexMode=FULL -DnondexSeed=1223286 -DnondexStart=0 -DnondexEnd=9223372036854775807 -DnondexPrintstack=false -DnondexDir="/home/codespace/Mapper/core/.nondex" -DnondexJarDir="/home/codespace/Mapper/core/.nondex" -DnondexExecid=HHHxETwxexoKeQIVDLMA+OyhvSnOz9QOJDAljcVOGs= -DnondexLogging=CONFIG
+[WARNING] tk.mybatis.mapper.mapperhelper.ComplexEntityTest#test
+[INFO] *********
+[INFO] *********
+[INFO] mvn nondex:nondex  -DnondexFilter='.*' -DnondexMode=FULL -DnondexSeed=1264730 -DnondexStart=0 -DnondexEnd=9223372036854775807 -DnondexPrintstack=false -DnondexDir="/home/codespace/Mapper/core/.nondex" -DnondexJarDir="/home/codespace/Mapper/core/.nondex" -DnondexExecid=dHj9XXrOONU69rZKJV1IkaoLrPzF9tkciB7OhfzqxM= -DnondexLogging=CONFIG
+[WARNING] tk.mybatis.mapper.mapperhelper.ComplexEntityTest#test
+[INFO] *********
+[INFO] *********
+[INFO] mvn nondex:nondex  -DnondexFilter='.*' -DnondexMode=FULL -DnondexSeed=1306174 -DnondexStart=0 -DnondexEnd=9223372036854775807 -DnondexPrintstack=false -DnondexDir="/home/codespace/Mapper/core/.nondex" -DnondexJarDir="/home/codespace/Mapper/core/.nondex" -DnondexExecid=4uvZkhc0BlpaZCRkvqt2JUgKNHUMzeNxVFROoLXqmqw= -DnondexLogging=CONFIG
+[WARNING] tk.mybatis.mapper.mapperhelper.ComplexEntityTest#test
+[INFO] *********
+[INFO] All tests pass without NonDex shuffling
+[INFO] ####################
+[INFO] Across all seeds:
+[INFO] tk.mybatis.mapper.mapperhelper.ComplexEntityTest#test
+[INFO] Test results can be found at: 
+[INFO] file:///home/codespace/Mapper/core/.nondex/MMhuPMAqwmhsBt+UkXVqsnaVizUp3rQcbccoCpi+08=/test_results.html
+[INFO] [NonDex] The id of this run is: MMhuPMAqwmhsBt+UkXVqsnaVizUp3rQcbccoCpi+08=
+[INFO] ------------------------------------------------------------------------
+[ERROR] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  15.604 s
+[INFO] Finished at: 2026-11-23T12:02:39Z
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal edu.illinois:nondex-maven-plugin:2.2.1:nondex (default-cli) on project mapper-core: Unable to execute mojo: There are test failures.
+[ERROR] 
+[ERROR] See /home/codespace/Mapper/core/.nondex/MMhuPMAqwmhsBt+UkXVqsnaVizUp3rQcbccoCpi+08= for the individual test results.
+[ERROR] See dump files (if any exist) [date].dump, [date]-jvmRun[N].dump and [date].dumpstream.
+[ERROR] -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
